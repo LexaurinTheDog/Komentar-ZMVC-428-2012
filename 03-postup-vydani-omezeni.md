@@ -40,6 +40,13 @@ Společným rysem kapitoly je důraz na krátké prekluzivní lhůty (výzva do 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 164/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B55A484C93FC350C12585900018DFE6?openDocument) — 25. 3. 2020, kat. A
+  > „Za okamžik rozhodný pro posouzení obsahu územně plánovací dokumentace (zda vymezuje pozemek určený k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury) se z hlediska naplnění uvedené podmínky výlukového důvodu upraveného v ustanovení § 8 odst. 1 písm. f) zákona č. 428/2012 Sb., ve znění pozdějších předpisů, považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné"
+- *NS* [28 Cdo 2703/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F7AFC8990930BAC125836000230CB0?openDocument) — 28. 8. 2018, kat. A
+  > „Uplatnila-li oprávněná osoba podle zákona č. 428/2012 Sb. u pozemkového úřadu nárok na vydání zemědělské nemovitosti v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku"
+
 #### Struktura postupu
 
 § 9 upravuje vícefázový, převážně veřejnoprávní postup vydání **zemědělské nemovitosti** (§ 2 písm. b)). Na rozdíl od § 10 nevzniká vlastnické právo oprávněné osoby pouhou dohodou a vkladem, nýbrž až pravomocným rozhodnutím pozemkového úřadu (schválením dohody, nebo rozhodnutím o vydání), které se do katastru zapisuje záznamem (odst. 9). Postup lze rozdělit do čtyř fází:
@@ -288,6 +295,13 @@ S vydávanou nemovitostí se vydávají i movité věci z původního majetku ve
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 3873/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A0BF88F20C36E5DC12589B90018601F?openDocument) — 28. 2. 2023, kat. A
+  > „Ustanovení § 12 odst. 1 zákona č. 428/2012 Sb. nezakládá nárok oprávněné osoby na vydání užitku věci ve formě nájemného, jež přijímala povinná osoba od doručení výzvy k vydání věci na základě smlouvy o nájmu od nájemce pozemku"
+- *NS* [28 Cdo 164/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B55A484C93FC350C12585900018DFE6?openDocument) — 25. 3. 2020, kat. A
+  > „Za okamžik rozhodný pro posouzení obsahu územně plánovací dokumentace (zda vymezuje pozemek určený k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury) se z hlediska naplnění uvedené podmínky výlukového důvodu upraveného v ustanovení § 8 odst. 1 písm. f) zákona č. 428/2012 Sb., ve znění pozdějších předpisů, považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné"
+
 #### Stav vydávané věci a uzavřený okruh vzájemných nároků (odst. 1)
 
 Věc se vydává ve stavu **ke dni doručení výzvy povinné osobě**, nedohodnou-li se strany písemně jinak. Rozhodný okamžik tedy není den křivdy ani den vydání: zhodnocení i znehodnocení věci do doručení výzvy jde k dobru, resp. k tíži oprávněné osoby, zatímco změny po doručení výzvy mohou vést k uplatnění zvláštních nároků (srov. § 13 odst. 3 věta poslední u movitých věcí). Spolu s věcí se vydávají:
@@ -366,6 +380,11 @@ Smlouvy o užívání věci (nájem, pacht, výpůjčka aj.) a smlouvy o právu 
 > Oprávněná osoba má nárok na náhradu škody, kterou jí povinná osoba způsobí porušením této povinnosti.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2527/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A4F7EB2EDAA4E11C12587BF001EB8B3?openDocument) — 7. 10. 2021, kat. A
+  > „I. Spravedlivým důvodem pro nabytí obohacení se primárně rozumí důvod právní. O existenci spravedlivého důvodu, jenž není důvodem právním a plyne ze zásad slušnosti a zvyklostí soukromého života, lze uvažovat jen zcela výjimečně. II. Za právní důvod pro nabytí obohacení lze zásadně označovat právní skutečnost, jež obohacenému zakládá právo, aby na úkor ochuzeného získal majetkový prospěch, respektive aby si tento majetkový prospěch podržel, případně právní normu, z níž takové oprávnění vyplývá přímo. III. Ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012 a § 13 zákona č. 428/2012 Sb. nezakládala právní důvod k užívání historického majetku církví ve vlastnictví státu třetími osobami"
 
 #### Účel a návaznost na dřívější blokační ustanovení
 

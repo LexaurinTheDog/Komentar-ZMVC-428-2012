@@ -56,6 +56,11 @@ Hlava IV obsahuje heterogenní soubor pravidel: žalobu o určení vlastnického
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
+  > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
+
 #### Funkce finanční náhrady a okruh dotčených církví (odst. 1 a 2)
 
 Finanční náhrada je **paušální** kompenzací za ten původní majetek registrovaných církví a náboženských společností, který se stal v rozhodném období předmětem majetkové křivdy v důsledku skutečností podle § 5 a který se podle zákona **nevydává** (srov. § 16 odst. 2 písm. a)). Nejde o náhradu za jednotlivé věci určovanou oceněním, ale o pevnou částku stanovenou přímo zákonem pro každou z 17 dotčených církví a náboženských společností vyjmenovaných v odst. 2. Legislativní zkratka „dotčená církev a náboženská společnost“ zahrnuje jen subjekty z tohoto výčtu; ostatní registrované církve na finanční náhradu nárok nemají, i když mohou být oprávněnými osobami podle § 3 při vydávání věcí. Výčet v odst. 2 se nekryje s okruhem registrovaných církví podle zákona o církvích a náboženských společnostech.
@@ -301,6 +306,11 @@ Závazek vyplácet příspěvek musí být součástí smlouvy o vypořádání 
 **Výklad:**
 
 § 18 je souborem samostatných pravidel, která doplňují hlavu II (vydávání věcí) o procesní, hmotněprávní a výkladové prvky. Jednotlivé odstavce je třeba vykládat odděleně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 1246/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE6D7BF8EC24CA7C125801B002509F9?openDocument) — 21. 6. 2016, kat. A
+  > „Převodu historického majetku církví v dražbě prováděné na základě zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb. ve znění účinném do 31. 12. 2012 pakliže by předmětem dražby odehrávající se po dni účinnosti zákona č. 229/1991 Sb. byl zemědělský majetek, mohlo jeho převod znemožnit ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012"
 
 #### Žaloba o určení vlastnického práva státu (odst. 1)
 

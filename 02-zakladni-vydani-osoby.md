@@ -18,6 +18,11 @@ Procesní postup vydání (§ 9 až 11), vypořádání práv váznoucích na v�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
+  > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
+
 #### Dvě složky předmětu úpravy
 
 § 1 vymezuje předmět zákona dvojím způsobem:
@@ -98,6 +103,11 @@ ZMVC je zvláštním restitučním předpisem pro církevní majetek. Navazuje n
 > - 4. obytné a hospodářské budovy a stavby sloužící zemědělské a lesní výrobě nebo s ní souvisejícímu vodnímu hospodářství, včetně zastavěných pozemků.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
+  > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
 
 #### Původní majetek registrovaných církví a náboženských společností (písm. a))
 
@@ -257,6 +267,11 @@ Oprávněnou osobou je jen existující registrovaná církev, její součást, 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2703/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F7AFC8990930BAC125836000230CB0?openDocument) — 28. 8. 2018, kat. A
+  > „Uplatnila-li oprávněná osoba podle zákona č. 428/2012 Sb. u pozemkového úřadu nárok na vydání zemědělské nemovitosti v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku"
+
 #### Okruh povinných osob
 
 Povinnými osobami jsou výlučně **subjekty hospodařící s majetkem státu nebo vykonávající jeho správu**:
@@ -404,6 +419,11 @@ Výkladovou otázkou je vztah obecných písm. j) a k) ke konkrétním písm. a)
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2703/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F7AFC8990930BAC125836000230CB0?openDocument) — 28. 8. 2018, kat. A
+  > „Uplatnila-li oprávněná osoba podle zákona č. 428/2012 Sb. u pozemkového úřadu nárok na vydání zemědělské nemovitosti v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku"
+
 #### Podmínky vydání
 
 § 6 stanoví povinnost povinných osob podle § 4 písm. a) a b) — Pozemkového fondu České republiky (dnes stát, za nějž jedná Státní pozemkový úřad, § 22 odst. 1 zákona č. 503/2012 Sb.) a Lesů České republiky, s. p. — vydat oprávněné osobě věc, jsou-li kumulativně splněny tyto podmínky:
@@ -472,6 +492,11 @@ Pozemkový fond (dnes stát jednající Státním pozemkovým úřadem) a Lesy �
 > (2) Povinná osoba podle § 4 písm. c) a d) vydá oprávněné osobě movitou věc ve vlastnictví státu, která náležela do původního majetku registrovaných církví a náboženských společností a stala se předmětem majetkové křivdy, kterou utrpěla oprávněná osoba nebo její právní předchůdce v rozhodném období v důsledku některé ze skutečností uvedených v § 5, pokud funkčně souvisela nebo souvisí s nemovitou věcí, kterou oprávněná osoba vlastní, nebo která se vydává podle tohoto zákona.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2854/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/988B8BB55430EDE9C1258510001B7EB9?openDocument) — 19. 11. 2019, kat. A
+  > „Podmínky naturální restituce ve smyslu ustanovení § 7 odst. 1 písm. b) zákona č. 428/2012 Sb. naplňují jen nemovité věci, jež v rozhodném období bezprostředně sloužily některému z účelů taxativně vyjmenovaných v tomto ustanovení nepostačuje, byly-li v rozhodném období zatíženy patronátním právem, jemuž odpovídala povinnost jejich vlastníka podporovat ze zisku vygenerovaného jejich užitím duchovní a pastorační činnost církve (vydržování kostelů)"
 
 #### Zúžený rozsah vydání u ostatních povinných osob
 
@@ -553,6 +578,11 @@ Ostatní povinné osoby vydávají nemovité věci jen při funkční souvislost
 > (2) Pokud nemovitou věc, která se vydává podle tohoto zákona, stát nezbytně potřebuje k plnění svých povinností vyplývajících z právních předpisů a k plnění těchto povinností nelze využít jiné nemovité věci, je oprávněná osoba povinna umožnit povinné osobě užívání této věci za v místě a čase obvyklé nájemné po dobu 10 let ode dne, kdy nabude vlastnictví věci.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 164/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B55A484C93FC350C12585900018DFE6?openDocument) — 25. 3. 2020, kat. A
+  > „Za okamžik rozhodný pro posouzení obsahu územně plánovací dokumentace (zda vymezuje pozemek určený k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury) se z hlediska naplnění uvedené podmínky výlukového důvodu upraveného v ustanovení § 8 odst. 1 písm. f) zákona č. 428/2012 Sb., ve znění pozdějších předpisů, považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné"
 
 #### Výluky z vydání (odst. 1)
 
