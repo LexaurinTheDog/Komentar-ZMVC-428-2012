@@ -23,6 +23,8 @@ Procesní postup vydání (§ 9 až 11), vypořádání práv váznoucích na v�
 - *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
   > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
 
+**K místní judikaturní kartě NS 28 Cdo 2255/2017:** Rozhodnutí nevykládá vymezení předmětu úpravy v § 1, nýbrž zákonnou fikci podle § 3 odst. 5 zákona č. 139/2002 Sb., o pozemkových úpravách, ve znění účinném do 31. 12. 2012 (dnes § 3 odst. 4), podle níž se pozemky ve vlastnictví státu, jejichž původním vlastníkem byly církve, v pozemkových úpravách vedou a řeší odděleně od ostatní státní půdy a na nově vzniklé pozemky se nahlíží jako na původní majetek podle ZMVC. K § 1 tedy míří jen nepřímo: ukazuje, že zmírnění křivd podle ZMVC navazuje i na předpisy o pozemkových úpravách, ale fikce nastupuje jen tehdy, bylo-li s původním majetkem nakládáno odděleně od jiné půdy ve vlastnictví státu. Věcně podstatná je karta pro pojem původního majetku podle § 2 písm. a), kde je rozvedena.
+
 #### Dvě složky předmětu úpravy
 
 § 1 vymezuje předmět zákona dvojím způsobem:
@@ -109,6 +111,8 @@ ZMVC je zvláštním restitučním předpisem pro církevní majetek. Navazuje n
 - *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
   > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
 
+**K místní judikaturní kartě NS 28 Cdo 2255/2017:** Pro § 2 písm. a) je karta věcně nejvýznamnější, byť sama vykládá zákon o pozemkových úpravách, nikoli text § 2. Pozemek nově vzniklý v pozemkových úpravách lze za původní majetek považovat na základě zákonné fikce podle § 3 odst. 5 zákona č. 139/2002 Sb. ve znění účinném do 31. 12. 2012 (dnes § 3 odst. 4); ta podle právní věty nemohla nastat, nebylo-li s původním majetkem církví v pozemkových úpravách nakládáno odděleně od jiné půdy ve vlastnictví státu. Bez fikce se oprávněná osoba nemůže dovolávat toho, že nový pozemek je původním majetkem jen proto, že do pozemkových úprav vstoupily bývalé církevní pozemky. U nároku na pozemek z pozemkových úprav je proto vedle historického vlastnictví třeba doložit i oddělené vedení a řešení původního majetku v řízení o pozemkových úpravách.
+
 #### Původní majetek registrovaných církví a náboženských společností (písm. a))
 
 Definice je záměrně široká a skládá se ze tří prvků:
@@ -165,8 +169,9 @@ Zjistí-li pozemkový úřad, že nejde o zemědělskou nemovitost, žádost o s
 - [ ] Tvořil pozemek k 24. 6. 1991 zemědělský nebo lesní půdní fond (historická úprava)?
 - [ ] Jde o stavbu původní zemědělské usedlosti nebo stavbu sloužící zemědělské a lesní výrobě?
 - [ ] Podle kvalifikace zvolit režim § 9 nebo § 10 a sledovat lhůty.
+- [ ] U pozemku vzniklého v pozemkových úpravách: bylo s původním majetkem nakládáno odděleně od jiné půdy ve vlastnictví státu (fikce podle zákona č. 139/2002 Sb., NS 28 Cdo 2255/2017)?
 
-**Typicky rozhodné podklady:** historické pozemkové knihy a katastrální operáty, listiny o nabytí a odnětí, evidence zemědělského a lesního půdního fondu k 24. 6. 1991, doklady o právním nástupnictví církevních právnických osob.
+**Typicky rozhodné podklady:** historické pozemkové knihy a katastrální operáty, listiny o nabytí a odnětí, evidence zemědělského a lesního půdního fondu k 24. 6. 1991, doklady o právním nástupnictví církevních právnických osob, u pozemků z pozemkových úprav dokumentace řízení o pozemkových úpravách.
 
 **HLAVA II**
 
@@ -272,6 +277,8 @@ Oprávněnou osobou je jen existující registrovaná církev, její součást, 
 - *NS* [28 Cdo 2703/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F7AFC8990930BAC125836000230CB0?openDocument) — 28. 8. 2018, kat. A
   > „Uplatnila-li oprávněná osoba podle zákona č. 428/2012 Sb. u pozemkového úřadu nárok na vydání zemědělské nemovitosti v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku"
 
+**K místní judikaturní kartě NS 28 Cdo 2703/2018:** Karta k § 4 míří jen nepřímo: vykládá podmínku vlastnictví státu u nároku uplatněného v prekluzivní lhůtě podle § 9 odst. 1 věty první, která podle právní věty běžela od 1. 1. 2013 do 2. 1. 2014 (věcně viz § 6 a § 9). Pro § 4 z ní plyne, že návětí („majetek státu“) nelze naplnit tím, že stát věc vlastnil v minulosti nebo že se k ní státní subjekt hlásí; nevlastnil-li stát nemovitost v této lhůtě, chybí předpoklady naturální restituce a oprávněné osobě zbývají jen prostředky uvedené níže (zejména § 18 odst. 1, byl-li převod v rozporu s blokačními ustanoveními).
+
 #### Okruh povinných osob
 
 Povinnými osobami jsou výlučně **subjekty hospodařící s majetkem státu nebo vykonávající jeho správu**:
@@ -319,7 +326,7 @@ Výkladovou otázkou je zařazení obchodních společností se státní majetko
 Povinnou osobou je jen státní subjekt příslušný hospodařit s věcí, která byla předmětem křivdy. Pozemkový fond nahradil v jeho postavení stát, za nějž jedná Státní pozemkový úřad.
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je věc ve vlastnictví státu? Ověřit v katastru nemovitostí.
+- [ ] Je věc ve vlastnictví státu, a to v době uplatnění nároku v lhůtě k výzvě (NS 28 Cdo 2703/2018)? Ověřit v katastru nemovitostí.
 - [ ] Kdo je příslušný s věcí hospodařit (písm. a) až d))?
 - [ ] U zemědělských nemovitostí státu: jedná Státní pozemkový úřad (§ 22 odst. 1 zákona č. 503/2012 Sb.).
 - [ ] Byla výzva podána subjektu uvedenému v § 4? Jinak se nekryje mechanismem § 11.
@@ -424,6 +431,8 @@ Výkladovou otázkou je vztah obecných písm. j) a k) ke konkrétním písm. a)
 - *NS* [28 Cdo 2703/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F7AFC8990930BAC125836000230CB0?openDocument) — 28. 8. 2018, kat. A
   > „Uplatnila-li oprávněná osoba podle zákona č. 428/2012 Sb. u pozemkového úřadu nárok na vydání zemědělské nemovitosti v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku"
 
+**K místní judikaturní kartě NS 28 Cdo 2703/2018:** Karta se týká podmínky „ve vlastnictví státu“, kterou § 6 výslovně stanoví (níže podmínka č. 2), a k § 6 proto míří přímo, i když vychází z lhůty podle § 9 odst. 1 věty první. Podle právní věty nejsou předpoklady naturální restituce naplněny, uplatnila-li oprávněná osoba nárok na vydání zemědělské nemovitosti u pozemkového úřadu v prekluzivní lhůtě (1. 1. 2013 až 2. 1. 2014), v níž však stát nemovitost nevlastnil. Vlastnictví státu tedy musí být dáno v době, kdy se nárok v této lhůtě uplatňuje; nestačí, že stát věc vlastnil v rozhodném období nebo jindy před počátkem lhůty. Karta tím zčásti odpovídá na výkladovou otázku rozhodného dne (viz níže Vlastnictví státu jako podmínka); zda musí vlastnictví státu trvat i po doručení výzvy až do uzavření dohody či rozhodnutí, z právní věty neplyne.
+
 #### Podmínky vydání
 
 § 6 stanoví povinnost povinných osob podle § 4 písm. a) a b) — Pozemkového fondu České republiky (dnes stát, za nějž jedná Státní pozemkový úřad, § 22 odst. 1 zákona č. 503/2012 Sb.) a Lesů České republiky, s. p. — vydat oprávněné osobě věc, jsou-li kumulativně splněny tyto podmínky:
@@ -443,7 +452,7 @@ Postup vydání se řídí povahou věci, nikoli osobou povinného: u zeměděls
 
 #### Vlastnictví státu jako podmínka
 
-Zákon nestanoví výslovně, ke kterému dni musí být věc ve vlastnictví státu. Ochranu před úbytkem původního majetku zajišťuje omezení převodu podle § 13 (účinné již ode dne vyhlášení zákona, § 26) a doplňuje ji určovací žaloba podle § 18 odst. 1 a soudní uplatnění nároku podle § 11 odst. 7. Výkladovou otázkou je, zda je rozhodující stav ke dni nabytí účinnosti zákona, ke dni doručení výzvy, nebo ke dni uzavření dohody či rozhodnutí; s ohledem na § 13 a § 12 odst. 1 (stav věci ke dni doručení výzvy) je nejvíce opodstatněn den doručení výzvy.
+Zákon nestanoví výslovně, ke kterému dni musí být věc ve vlastnictví státu. Ochranu před úbytkem původního majetku zajišťuje omezení převodu podle § 13 (účinné již ode dne vyhlášení zákona, § 26) a doplňuje ji určovací žaloba podle § 18 odst. 1 a soudní uplatnění nároku podle § 11 odst. 7. Výkladovou otázkou je, zda je rozhodující stav ke dni nabytí účinnosti zákona, ke dni doručení výzvy, nebo ke dni uzavření dohody či rozhodnutí; s ohledem na § 13 a § 12 odst. 1 (stav věci ke dni doručení výzvy) je nejvíce opodstatněn den doručení výzvy. Místní karta NS 28 Cdo 2703/2018 (viz výše) otázku zčásti uzavírá: vlastnictví státu musí být dáno v prekluzivní lhůtě k výzvě, takže vlastnictví státu, které skončilo před jejím počátkem, nárok nezakládá. Výklad ve prospěch dne doručení výzvy s kartou nekoliduje; otevřené zůstává jen to, zda pozdější ztráta vlastnictví státu (např. v rozporu s § 13) nárok vylučuje.
 
 #### F. Kazuistika
 
@@ -472,7 +481,7 @@ Pozemkový fond (dnes stát jednající Státním pozemkovým úřadem) a Lesy �
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Je povinnou osobou osoba podle § 4 písm. a) nebo b)?
-- [ ] Jde o nemovitou věc ve vlastnictví státu z původního majetku a předmět křivdy podle § 5?
+- [ ] Jde o nemovitou věc ve vlastnictví státu (v lhůtě k výzvě, NS 28 Cdo 2703/2018) z původního majetku a předmět křivdy podle § 5?
 - [ ] Nebrání vydání výluka podle § 8 odst. 1?
 - [ ] Jde o zemědělskou nemovitost (§ 9), nebo o jinou věc (§ 10)?
 - [ ] Nárokovat i funkčně související movité věci (§ 11 odst. 9).
@@ -498,6 +507,8 @@ Pozemkový fond (dnes stát jednající Státním pozemkovým úřadem) a Lesy �
 - *NS* [28 Cdo 2854/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/988B8BB55430EDE9C1258510001B7EB9?openDocument) — 19. 11. 2019, kat. A
   > „Podmínky naturální restituce ve smyslu ustanovení § 7 odst. 1 písm. b) zákona č. 428/2012 Sb. naplňují jen nemovité věci, jež v rozhodném období bezprostředně sloužily některému z účelů taxativně vyjmenovaných v tomto ustanovení nepostačuje, byly-li v rozhodném období zatíženy patronátním právem, jemuž odpovídala povinnost jejich vlastníka podporovat ze zisku vygenerovaného jejich užitím duchovní a pastorační činnost církve (vydržování kostelů)"
 
+**K místní judikaturní kartě NS 28 Cdo 2854/2019:** Karta míří přímo na § 7 odst. 1 písm. b). Účelový důvod vydání naplní jen nemovitá věc, která v rozhodném období **bezprostředně** sloužila některému z účelů, jejichž výčet je podle právní věty taxativní (duchovní, pastorační, charitativní, zdravotnické, vzdělávací a administrativní účely a obydlí duchovních). Nepostačuje vazba zprostředkovaná výnosem — zejména to, že nemovitost byla v rozhodném období zatížena patronátním právem, jemuž odpovídala povinnost jejího vlastníka podporovat ze zisku z jejího užití duchovní a pastorační činnost církve (vydržování kostelů). Nemovitost, z jejíhož výnosu byla církevní činnost jen financována, proto pod písm. b) nespadá; zda ji lze vydat pro funkční souvislost podle písm. a), karta neřeší.
+
 #### Zúžený rozsah vydání u ostatních povinných osob
 
 § 7 upravuje vydávání věcí povinnými osobami podle § 4 písm. c) a d) — státem jednajícím organizační složkou a státními organizacemi (příspěvkové organizace, státní fondy, státní podniky a jiné státní organizace). Vedle obecných podmínek shodných s § 6 (vlastnictví státu, původní majetek, křivda podle § 5 v rozhodném období) zákon vyžaduje **dodatečnou kvalifikační podmínku**. Důvod lze spatřovat v tom, že tyto osoby zpravidla hospodaří s majetkem určeným k výkonu veřejných funkcí; vydání se proto omezuje na věci s výraznou vazbou na církevní působení.
@@ -507,7 +518,7 @@ Pozemkový fond (dnes stát jednající Státním pozemkovým úřadem) a Lesy �
 Nemovitá věc se vydá, pokud alternativně:
 
 - **písm. a) funkčně souvisela nebo souvisí s nemovitou věcí, kterou oprávněná osoba vlastní nebo která se vydává podle tohoto zákona** — např. pozemek kolem kostela, farní budova u kostela, hospodářské zázemí kláštera; postačí souvislost minulá („souvisela“) i současná („souvisí“);
-- **písm. b) sloužila oprávněné osobě nebo jejímu právnímu předchůdci v rozhodném období k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům nebo jako obydlí duchovních** — rozhodující je účel užívání v rozhodném období, nikoli dnešní využití.
+- **písm. b) sloužila oprávněné osobě nebo jejímu právnímu předchůdci v rozhodném období k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům nebo jako obydlí duchovních** — rozhodující je účel užívání v rozhodném období, nikoli dnešní využití; věc musela vyjmenovanému účelu sloužit bezprostředně, nikoli jen zprostředkovaně svým výnosem (NS 28 Cdo 2854/2019, viz výše).
 
 #### Movité věci (odst. 2)
 
@@ -538,6 +549,7 @@ Pojem funkční souvislosti zákon nedefinuje. Lze jej chápat jako vazbu, při 
 
 - *„Souvislost musí trvat dosud.“* Neutralizace: zákon výslovně postačuje, že věc „funkčně souvisela“.
 - *„Sbírkový předmět nelze vydat.“* Neutralizace: § 18 odst. 7 — vedení ve zvláštní evidenci vydání nebrání; zvláštní výluku pro sbírkové předměty § 8 neobsahuje.
+- *„Pro písm. b) postačí, že výnos nemovitosti sloužil k vydržování kostela.“* Riziko pro oprávněnou osobu: písm. b) vyžaduje, aby nemovitost vyjmenovanému účelu sloužila bezprostředně; zatížení patronátním právem nestačí (NS 28 Cdo 2854/2019). Zbývá jen argumentace funkční souvislostí podle písm. a).
 - *Slabé místo:* doložení původu a umístění movité věci v rozhodném období (inventáře, fotografie, soupisy); rozsah pojmu funkční souvislosti je výkladovou otázkou.
 
 #### H. Praktický závěr
@@ -546,7 +558,7 @@ Ostatní povinné osoby vydávají nemovité věci jen při funkční souvislost
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Je povinnou osobou osoba podle § 4 písm. c) nebo d)?
-- [ ] Nemovitá věc: funkční souvislost (písm. a)), nebo účel užívání v rozhodném období (písm. b))?
+- [ ] Nemovitá věc: funkční souvislost (písm. a)), nebo bezprostřední účel užívání v rozhodném období (písm. b); nestačí patronátní zatížení, NS 28 Cdo 2854/2019)?
 - [ ] Movitá věc: funkční souvislost s nemovitostí, kterou oprávněná osoba vlastní nebo která se vydává?
 - [ ] Doložit podmínku ve výzvě (§ 9 odst. 1 písm. c), § 10 odst. 1 písm. c)).
 - [ ] Hlídat zákaz přemístění movité věci (§ 13 odst. 3).
@@ -584,6 +596,8 @@ Ostatní povinné osoby vydávají nemovité věci jen při funkční souvislost
 - *NS* [28 Cdo 164/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B55A484C93FC350C12585900018DFE6?openDocument) — 25. 3. 2020, kat. A
   > „Za okamžik rozhodný pro posouzení obsahu územně plánovací dokumentace (zda vymezuje pozemek určený k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury) se z hlediska naplnění uvedené podmínky výlukového důvodu upraveného v ustanovení § 8 odst. 1 písm. f) zákona č. 428/2012 Sb., ve znění pozdějších předpisů, považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné"
 
+**K místní judikaturní kartě NS 28 Cdo 164/2020:** Karta míří přímo na výluku podle § 8 odst. 1 písm. f) a řeší otázku, kterou zákon výslovně neupravuje — ke kterému okamžiku se posuzuje obsah územně plánovací dokumentace, tj. zda vymezuje pozemek k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury. Rozhodný je okamžik doručení výzvy oprávněné osoby povinné osobě. Z právní věty plyne, že vymezení veřejně prospěšné stavby provedené až po doručení výzvy vydání podle písm. f) nebrání, a naopak vymezení, které ke dni doručení výzvy existovalo, se uplatní bez ohledu na pozdější vývoj. Výluka podle písm. f) se tím časově shoduje se stavem věci ke dni doručení výzvy podle § 12 odst. 1; pro ostatní výluky (např. užívání stavby podle písm. a) nebo užívání bezpečnostním sborem podle písm. d)) karta rozhodný okamžik nestanoví.
+
 #### Výluky z vydání (odst. 1)
 
 Odst. 1 obsahuje **taxativní výčet** věcí, které nelze vydat, i když jsou splněny podmínky § 6 nebo 7. Výluky chrání veřejný zájem (obrana, bezpečnost, infrastruktura, ochrana přírody), práva třetích osob a stavební investice provedené po křivdě. Jako výjimky z restitučního pravidla je nelze rozšiřovat analogií.
@@ -602,7 +616,7 @@ Poznámka pod čarou č. 5 odkazuje na stavební zákon č. 183/2006 Sb. a na d�
 
 **Písm. e) sportovní hřiště** na pozemku vyňatém ze zemědělského půdního fondu, zřízené v souladu se stavebním zákonem a užívané.
 
-**Písm. f) veřejně prospěšné stavby dopravní nebo technické infrastruktury** — část pozemku nebo stavby potřebná pro jejich uskutečnění, vymezená ve schválené územně plánovací dokumentaci, pro kterou lze práva vyvlastnit. Výluka neplatí, postačí-li zřízení věcného břemene; pak se věc vydá zatížená.
+**Písm. f) veřejně prospěšné stavby dopravní nebo technické infrastruktury** — část pozemku nebo stavby potřebná pro jejich uskutečnění, vymezená ve schválené územně plánovací dokumentaci, pro kterou lze práva vyvlastnit. Obsah územně plánovací dokumentace se posuzuje ke dni doručení výzvy povinné osobě (NS 28 Cdo 164/2020, viz výše). Výluka neplatí, postačí-li zřízení věcného břemene; pak se věc vydá zatížená.
 
 **Písm. g) národní park a národní přírodní rezervace** — nemovité věci tvořící jejich území a stavby na něm.
 
@@ -635,24 +649,24 @@ Ustanovení je třeba odlišit od § 12 odst. 3, podle něhož může oprávněn
 - *Související ustanovení téhož zákona:* § 7 odst. 1, § 10 odst. 2 (geometrický plán), § 12 odst. 3, § 16 odst. 2 písm. a).
 - *Související předpisy:* stavební předpisy účinné v roce 1975 (poznámka pod čarou č. 5), zákon č. 361/2003 Sb. (§ 1 odst. 1 — bezpečnostní sbory).
 
-**4. Subsumpce.** (a) Mateřská škola byla zřízena po křivdě v souladu se stavebními předpisy a je užívána — zastavěná část a nezbytně nutná přilehlá část jsou vyloučeny; zbytek zahrady nad rámec nezbytně nutné části vydat lze. (b) Louka je vymezena pro veřejně prospěšnou stavbu dopravní infrastruktury, pro niž lze vyvlastnit — výluka platí, ledaže postačí věcné břemeno (např. pro podzemní vedení). (c) Policie ČR je bezpečnostním sborem a budovu užívá k plnění úkolů — výluka podle písm. d).
+**4. Subsumpce.** (a) Mateřská škola byla zřízena po křivdě v souladu se stavebními předpisy a je užívána — zastavěná část a nezbytně nutná přilehlá část jsou vyloučeny; zbytek zahrady nad rámec nezbytně nutné části vydat lze. (b) Louka je vymezena pro veřejně prospěšnou stavbu dopravní infrastruktury, pro niž lze vyvlastnit — výluka platí, ledaže postačí věcné břemeno (např. pro podzemní vedení); rozhodující je obsah územního plánu ke dni doručení výzvy, takže vymezení koridoru až po tomto dni by vydání nebránilo. (c) Policie ČR je bezpečnostním sborem a budovu užívá k plnění úkolů — výluka podle písm. d).
 
 **5. Řešení.** Vydá se jen nezastavěná část zahrady (s geometrickým plánem); louka a fara se nevydají. Pokud by fara sloužila jinému státnímu orgánu, který ji nezbytně potřebuje a nemá jinou možnost, vydala by se, ale oprávněná osoba by musela po dobu 10 let strpět užívání za obvyklé nájemné (odst. 2).
 
-**6. Varianty.** (a) Mateřská škola stojí bez stavebního povolení — první varianta písm. a) naplněna není; je-li však stavba ve vlastnictví jiné osoby než státu (např. obce), uplatní se druhá varianta bez ohledu na soulad se stavebními předpisy. (b) Policie se z budovy po vydání vystěhuje — výluka podle písm. d) se posuzuje podle stavu užívání; je-li nárok ještě neuzavřen, výkladovou otázkou je, ke kterému dni se užívání posuzuje.
+**6. Varianty.** (a) Mateřská škola stojí bez stavebního povolení — první varianta písm. a) naplněna není; je-li však stavba ve vlastnictví jiné osoby než státu (např. obce), uplatní se druhá varianta bez ohledu na soulad se stavebními předpisy. (b) Policie se z budovy po vydání vystěhuje — výluka podle písm. d) se posuzuje podle stavu užívání; je-li nárok ještě neuzavřen, výkladovou otázkou je, ke kterému dni se užívání posuzuje (u písm. f) je rozhodný den doručení výzvy; zda lze tento závěr přenést i na písm. d), zůstává otevřené).
 
 #### G. Protiargumenty a rizika
 
 - *„Výluka se vztahuje na celý pozemek.“* Neutralizace: zákon výslovně vylučuje jen „část pozemku“ zastavěnou a nezbytně nutnou; zbytek se vydá.
 - *„Stát potřebuje věc, proto ji nevydá.“* Neutralizace: potřeba státu mimo výčet odst. 1 vede jen k povinnosti strpět užívání podle odst. 2, nikoli k odepření vydání; navíc je třeba prokázat, že jinou věc využít nelze.
-- *Slabé místo:* rozhodný okamžik pro posouzení výluk (užívání stavby, užívání bezpečnostním sborem, schválení územně plánovací dokumentace) zákon výslovně nestanoví — jde o výkladovou otázku; ochranu před účelovými změnami poskytuje § 13.
+- *Slabé místo:* rozhodný okamžik pro posouzení výluk zákon výslovně nestanoví. U písm. f) jej určuje místní karta NS 28 Cdo 164/2020 — obsah územně plánovací dokumentace se posuzuje ke dni doručení výzvy povinné osobě; u ostatních výluk (užívání stavby, užívání bezpečnostním sborem) jde nadále o výkladovou otázku. Ochranu před účelovými změnami poskytuje § 13.
 
 #### H. Praktický závěr
 
 § 8 odst. 1 taxativně vylučuje z vydání věci, u nichž převažuje veřejný zájem nebo práva třetích osob; výluky se vykládají restriktivně a dopadají jen na vymezené části věcí. Odst. 2 vydání nebrání, ale zavazuje oprávněnou osobu strpět užívání věci státem po dobu 10 let za obvyklé nájemné.
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá věc pod některé z písm. a) až h)? Ověřit všechny znaky (soulad se stavebními předpisy, užívání, vymezení v územně plánovací dokumentaci, hranice chráněného území).
+- [ ] Spadá věc pod některé z písm. a) až h)? Ověřit všechny znaky (soulad se stavebními předpisy, užívání, vymezení v územně plánovací dokumentaci ke dni doručení výzvy, hranice chráněného území).
 - [ ] Dopadá výluka jen na část věci? Vydat zbytek s geometrickým plánem.
 - [ ] U veřejně prospěšné stavby: nepostačí věcné břemeno?
 - [ ] Nárokuje stát užívání podle odst. 2? Prověřit nezbytnost a absenci jiné nemovité věci; sjednat obvyklé nájemné.

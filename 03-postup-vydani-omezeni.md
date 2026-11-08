@@ -44,14 +44,19 @@ Společným rysem kapitoly je důraz na krátké prekluzivní lhůty (výzva do 
 
 - *NS* [28 Cdo 164/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B55A484C93FC350C12585900018DFE6?openDocument) — 25. 3. 2020, kat. A
   > „Za okamžik rozhodný pro posouzení obsahu územně plánovací dokumentace (zda vymezuje pozemek určený k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury) se z hlediska naplnění uvedené podmínky výlukového důvodu upraveného v ustanovení § 8 odst. 1 písm. f) zákona č. 428/2012 Sb., ve znění pozdějších předpisů, považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné"
+
+**K místní judikaturní kartě NS 28 Cdo 164/2020:** Karta vykládá výluku podle § 8 odst. 1 písm. f) a k § 9 míří jen nepřímo (věcně viz § 8 v kapitole [02](02-zakladni-vydani-osoby.md)). Pro postup podle § 9 z ní plyne, že doručení výzvy má vedle procesního významu (počátek šestiměsíční lhůty k dohodě podle odst. 2) i hmotněprávní účinek: k tomuto dni se posuzuje, zda územně plánovací dokumentace vymezuje pozemek pro veřejně prospěšnou stavbu. Pozemkový úřad, který podle odst. 5 a 6 zkoumá soulad dohody se zákonem nebo rozhoduje o vydání, proto posuzuje tuto výluku podle stavu ke dni doručení výzvy, nikoli ke dni svého rozhodnutí; datum doručení výzvy je třeba doložit.
+
 - *NS* [28 Cdo 2703/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F7AFC8990930BAC125836000230CB0?openDocument) — 28. 8. 2018, kat. A
   > „Uplatnila-li oprávněná osoba podle zákona č. 428/2012 Sb. u pozemkového úřadu nárok na vydání zemědělské nemovitosti v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku"
+
+**K místní judikaturní kartě NS 28 Cdo 2703/2018:** Karta míří přímo na § 9 odst. 1 větu první. Upřesňuje, že prekluzivní lhůta k výzvě běžela od 1. 1. 2013 do 2. 1. 2014, a spojuje ji s hmotněprávní podmínkou vlastnictví státu: nevlastnil-li stát zemědělskou nemovitost v této lhůtě, nebyly naplněny předpoklady naturální restituce, i když byl nárok u pozemkového úřadu uplatněn včas. Včasná výzva je tedy nutnou, nikoli postačující podmínkou; pozemkový úřad zkoumá i to, zda věc v lhůtě patřila státu (k podmínce vlastnictví státu viz § 6 v kapitole [02](02-zakladni-vydani-osoby.md)).
 
 #### Struktura postupu
 
 § 9 upravuje vícefázový, převážně veřejnoprávní postup vydání **zemědělské nemovitosti** (§ 2 písm. b)). Na rozdíl od § 10 nevzniká vlastnické právo oprávněné osoby pouhou dohodou a vkladem, nýbrž až pravomocným rozhodnutím pozemkového úřadu (schválením dohody, nebo rozhodnutím o vydání), které se do katastru zapisuje záznamem (odst. 9). Postup lze rozdělit do čtyř fází:
 
-1. **Výzva** oprávněné osoby povinné osobě (odst. 1) — písemná, do 12 měsíců ode dne nabytí účinnosti zákona (zákon nabyl účinnosti 1. 1. 2013, lhůta tedy uplynula koncem roku 2013), jinak nárok **zaniká** (prekluze). Výzva musí obsahovat označení nemovitosti (postačí podle stavu v době křivdy), právní důvod a přílohy podle písm. a) až d): doložení příslušnosti k původnímu majetku, skutečnosti podle § 5, u povinných osob podle § 4 písm. c) a d) funkční souvislost nebo účelové užívání podle § 7 odst. 1 písm. a) nebo b) a případné právní nástupnictví. Výzvu lze doplňovat o důvody, skutečnosti a listiny, nikoli však **rozšiřovat** uplatněný nárok (nové nemovitosti po uplynutí lhůty). Povinná osoba do 15 dnů doručí kopii výzvy (i doplnění) příslušnému pozemkovému úřadu.
+1. **Výzva** oprávněné osoby povinné osobě (odst. 1) — písemná, do 12 měsíců ode dne nabytí účinnosti zákona (zákon nabyl účinnosti 1. 1. 2013; lhůta podle místní karty NS 28 Cdo 2703/2018 běžela od 1. 1. 2013 do 2. 1. 2014), jinak nárok **zaniká** (prekluze). Výzva musí obsahovat označení nemovitosti (postačí podle stavu v době křivdy), právní důvod a přílohy podle písm. a) až d): doložení příslušnosti k původnímu majetku, skutečnosti podle § 5, u povinných osob podle § 4 písm. c) a d) funkční souvislost nebo účelové užívání podle § 7 odst. 1 písm. a) nebo b) a případné právní nástupnictví. Výzvu lze doplňovat o důvody, skutečnosti a listiny, nikoli však **rozšiřovat** uplatněný nárok (nové nemovitosti po uplynutí lhůty). Povinná osoba do 15 dnů doručí kopii výzvy (i doplnění) příslušnému pozemkovému úřadu.
 2. **Dohoda** (odst. 2) — písemná, do 6 měsíců od doručení výzvy (s výjimkami podle § 11, kde lhůta běží od jiného okamžiku). Nemovitosti se označí údaji podle katastrálního zákona; vydává-li se jen část parcely, je geometrický plán neoddělitelnou součástí dohody.
 3. **Schválení dohody** pozemkovým úřadem ve správním řízení (odst. 3), jehož účastníky jsou jen oprávněná a povinná osoba. Pozemkový úřad (poznámka pod čarou č. 8 odkazuje na § 20 odst. 1 písm. a) zákona č. 139/2002 Sb.) dohodu přezkoumá: netýká-li se zemědělské nemovitosti, žádost zamítne a dále se postupuje podle § 10 odst. 3 (odst. 4); není-li v souladu se zákonem, dohodu neschválí (odst. 5).
 4. **Rozhodnutí o vydání** pozemkovým úřadem — buď ex lege zahájené řízení po neschválení dohody (odst. 5 věta druhá), nebo řízení na návrh oprávněné osoby, nebyla-li dohoda uzavřena (odst. 6; návrh do 6 měsíců po uplynutí lhůty k uzavření dohody).
@@ -85,7 +90,7 @@ Konstrukce dohoda – schválení – rozhodnutí pozemkového úřadu – přez
 
 **4. Subsumpce.** Výzva z března 2013 byla podána ve lhůtě 12 měsíců od 1. 1. 2013. Říjnové „doplnění“ sice spadá do téže lhůty, ale nejde o doplnění důvodů, skutečností a listin k uplatněnému nároku, nýbrž o uplatnění nároku na další nemovitosti — to zákaz rozšiřování v odst. 1 nevylučuje jako samostatnou výzvu, pokud byla učiněna ve lhůtě a splňuje náležitosti písm. a) až d). Rozhodující je tedy, zda „doplnění“ samo obstojí jako nová včasná výzva. Proti rozhodnutí o návrhu se nelze odvolat (odst. 8); jedinou cestou je žaloba podle části páté o. s. ř. ke krajskému soudu.
 
-**5. Řešení.** Pokud podání z října 2013 obsahovalo označení pozemků, právní důvod a doklady podle odst. 1, jde o včasnou samostatnou výzvu a zamítnutí je nesprávné; řád podá do dvou měsíců od doručení rozhodnutí žalobu ke krajskému soudu. Pokud by stejné podání přišlo až v roce 2014, nárok k těmto pozemkům by zanikl a soud by žalobě nevyhověl.
+**5. Řešení.** Pokud podání z října 2013 obsahovalo označení pozemků, právní důvod a doklady podle odst. 1, jde o včasnou samostatnou výzvu a zamítnutí je nesprávné; řád podá do dvou měsíců od doručení rozhodnutí žalobu ke krajskému soudu. Pokud by stejné podání přišlo až po uplynutí lhůty (po 2. 1. 2014), nárok k těmto pozemkům by zanikl a soud by žalobě nevyhověl. Včasnost sama nestačí: předpoklady vydání chybí i u včas nárokovaného pozemku, který stát v lhůtě k výzvě nevlastnil.
 
 **6. Varianty.** (a) Pozemkový úřad zjistí, že jeden z pozemků není zemědělskou nemovitostí (např. jde o budovu bývalé fary, která nepatřila k zemědělské usedlosti ani nesloužila zemědělské či lesní výrobě, § 2 písm. b) body 3 a 4) — návrh v této části zamítne a dále se postupuje podle § 10 odst. 4 (soudní nahrazení projevu vůle). (b) Dohoda byla uzavřena, ale pozemkový úřad ji neschválí pro rozpor se zákonem (např. vydání pozemku vyloučeného podle § 8) — po marném uplynutí lhůty k žalobě je řízení o vydání zahájeno ze zákona (odst. 5).
 
@@ -99,11 +104,13 @@ Konstrukce dohoda – schválení – rozhodnutí pozemkového úřadu – přez
 
 #### H. Praktický závěr
 
-§ 9 zakládá u zemědělských nemovitostí model „dohoda pod dohledem pozemkového úřadu“: vlastnické právo vzniká pravomocným rozhodnutím (schválením dohody nebo rozhodnutím o vydání), do katastru se zapisuje záznamem a soudní ochrana se poskytuje v řízení podle části páté o. s. ř. u krajského soudu. Lhůty pro výzvu uplynuly v roce 2013; dnes jde zejména o dokončování řízení a soudní spory o vydání.
+§ 9 zakládá u zemědělských nemovitostí model „dohoda pod dohledem pozemkového úřadu“: vlastnické právo vzniká pravomocným rozhodnutím (schválením dohody nebo rozhodnutím o vydání), do katastru se zapisuje záznamem a soudní ochrana se poskytuje v řízení podle části páté o. s. ř. u krajského soudu. Lhůta pro výzvu uplynula 2. 1. 2014 (NS 28 Cdo 2703/2018); dnes jde zejména o dokončování řízení a soudní spory o vydání.
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Jde o zemědělskou nemovitost podle § 2 písm. b) (stav k 24. 6. 1991 u bodů 1 a 2)?
-- [ ] Byla výzva doručena do 12 měsíců od 1. 1. 2013 a obsahovala náležitosti odst. 1 písm. a) až d)?
+- [ ] Byla výzva doručena do 12 měsíců od 1. 1. 2013 (nejpozději 2. 1. 2014) a obsahovala náležitosti odst. 1 písm. a) až d)?
+- [ ] Vlastnil stát nemovitost v lhůtě k výzvě? Jinak předpoklady naturální restituce chybí (NS 28 Cdo 2703/2018).
+- [ ] Posoudit výluku podle § 8 odst. 1 písm. f) podle územně plánovací dokumentace ke dni doručení výzvy (NS 28 Cdo 164/2020).
 - [ ] Rozlišit doplnění výzvy (přípustné) od rozšíření nároku (nepřípustné).
 - [ ] Ověřit běh lhůty 6 měsíců pro dohodu (případně podle § 11 odst. 5) a navazující lhůty 6 měsíců pro návrh.
 - [ ] Proti rozhodnutí podle odst. 4 až 6 nepodávat odvolání, ale žalobu podle části páté o. s. ř. ke krajskému soudu do dvou měsíců od doručení.
@@ -299,12 +306,17 @@ S vydávanou nemovitostí se vydávají i movité věci z původního majetku ve
 
 - *NS* [28 Cdo 3873/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A0BF88F20C36E5DC12589B90018601F?openDocument) — 28. 2. 2023, kat. A
   > „Ustanovení § 12 odst. 1 zákona č. 428/2012 Sb. nezakládá nárok oprávněné osoby na vydání užitku věci ve formě nájemného, jež přijímala povinná osoba od doručení výzvy k vydání věci na základě smlouvy o nájmu od nájemce pozemku"
+
+**K místní judikaturní kartě NS 28 Cdo 3873/2022:** Karta míří přímo na § 12 odst. 1. Pravidlo, že se věc vydává ve stavu ke dni doručení výzvy, nezakládá nárok oprávněné osoby na vydání užitku věci ve formě nájemného, které povinná osoba přijímala od doručení výzvy na základě nájemní smlouvy s nájemcem pozemku. Fixace stavu ke dni doručení výzvy se tedy týká věci samé (se součástmi a příslušenstvím), nikoli užitků, které věc mezi doručením výzvy a vydáním přináší povinné osobě. Výsledek odpovídá uzavřenému okruhu nároků podle věty třetí (níže); právní věta sama ovšem výslovně říká jen to, že takový nárok nezakládá § 12 odst. 1.
+
 - *NS* [28 Cdo 164/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B55A484C93FC350C12585900018DFE6?openDocument) — 25. 3. 2020, kat. A
   > „Za okamžik rozhodný pro posouzení obsahu územně plánovací dokumentace (zda vymezuje pozemek určený k zastavění veřejně prospěšnou stavbou dopravní nebo technické infrastruktury) se z hlediska naplnění uvedené podmínky výlukového důvodu upraveného v ustanovení § 8 odst. 1 písm. f) zákona č. 428/2012 Sb., ve znění pozdějších předpisů, považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné"
 
+**K místní judikaturní kartě NS 28 Cdo 164/2020:** Karta se týká výluky podle § 8 odst. 1 písm. f) (rozvedena u § 8 v kapitole [02](02-zakladni-vydani-osoby.md) a u § 9) a k § 12 míří jen nepřímo: ukazuje, že den doručení výzvy je rozhodný nejen pro stav vydávané věci podle odst. 1, ale i pro posouzení této výluky.
+
 #### Stav vydávané věci a uzavřený okruh vzájemných nároků (odst. 1)
 
-Věc se vydává ve stavu **ke dni doručení výzvy povinné osobě**, nedohodnou-li se strany písemně jinak. Rozhodný okamžik tedy není den křivdy ani den vydání: zhodnocení i znehodnocení věci do doručení výzvy jde k dobru, resp. k tíži oprávněné osoby, zatímco změny po doručení výzvy mohou vést k uplatnění zvláštních nároků (srov. § 13 odst. 3 věta poslední u movitých věcí). Spolu s věcí se vydávají:
+Věc se vydává ve stavu **ke dni doručení výzvy povinné osobě**, nedohodnou-li se strany písemně jinak. Rozhodný okamžik tedy není den křivdy ani den vydání: zhodnocení i znehodnocení věci do doručení výzvy jde k dobru, resp. k tíži oprávněné osoby, zatímco změny po doručení výzvy mohou vést k uplatnění zvláštních nároků (srov. § 13 odst. 3 věta poslední u movitých věcí). Nárok na vydání užitků, které věc po doručení výzvy přinesla povinné osobě (zejména nájemného od nájemce pozemku), však § 12 odst. 1 nezakládá (NS 28 Cdo 3873/2022, viz výše). Spolu s věcí se vydávají:
 
 - **součásti a příslušenství**, které náležely do původního majetku registrovaných církví a náboženských společností,
 - součásti a příslušenství, které **zastoupily jejich funkci** (náhrady za původní vybavení),
@@ -333,7 +345,7 @@ Smlouvy o užívání věci (nájem, pacht, výpůjčka aj.) a smlouvy o právu 
 
 **4. Subsumpce.** (i) Zástavní právo zaniklo okamžikem vydání ze zákona; povinná osoba měla závazek vypořádat nebo jinak zajistit. (ii) Pachtovní smlouva byla uzavřena před 1. 1. 2013; jsou-li podmínky nápadně nevýhodné, lze ji vypovědět do 1 roku od vydání s šestiměsíční výpovědní dobou. (iii) Totéž platí pro věcné břemeno sjednané za symbolickou úplatu — výpověď v téže lhůtě. (iv) Nárok na náhradu za těžbu dřeva před doručením výzvy zákon nestanoví; věc se vydává ve stavu ke dni doručení výzvy a jiná práva oprávněné osoby jsou vyloučena.
 
-**5. Řešení.** Biskupství podá návrh na výmaz zaniklého zástavního práva; pacht a věcné břemeno vypoví písemně do 1 roku od vydání, přičemž musí doložit nápadnou nevýhodnost (srovnání s obvyklým pachtovným a úplatou). Nárok (iv) neobstojí. Vytěžení po doručení výzvy by bylo nutné posuzovat odlišně (stav věci se fixuje ke dni doručení výzvy).
+**5. Řešení.** Biskupství podá návrh na výmaz zaniklého zástavního práva; pacht a věcné břemeno vypoví písemně do 1 roku od vydání, přičemž musí doložit nápadnou nevýhodnost (srovnání s obvyklým pachtovným a úplatou). Nárok (iv) neobstojí. Vytěžení po doručení výzvy by bylo nutné posuzovat odlišně, pokud by zhoršilo stav věci fixovaný ke dni doručení výzvy; samotné užitky, které věc po doručení výzvy přinesla povinné osobě (např. nájemné z pozemku), oprávněné osobě podle § 12 odst. 1 nenáležejí.
 
 **6. Varianty.** (a) Strany se písemně dohodly, že věc bude vydána v aktuálním stavu ke dni vydání — rozhodný je dohodnutý stav. (b) Pacht byl sjednán za obvyklých podmínek — výpověď podle odst. 3 nepřichází v úvahu a biskupství je vázáno smlouvou podle obecných předpisů.
 
@@ -341,6 +353,7 @@ Smlouvy o užívání věci (nájem, pacht, výpůjčka aj.) a smlouvy o právu 
 
 - *„Pachtovné bylo v době uzavření smlouvy obvyklé.“* Riziko: nápadná nevýhodnost se hodnotí k době uzavření smlouvy; pozdější růst cen sám o sobě nestačí. Oprávněná osoba potřebuje znalecké nebo srovnávací podklady.
 - *„Povinná osoba může požadovat náhradu investic.“* Neutralizace: jen pokud to stanoví tento nebo jiný zákon; obecné bezdůvodné obohacení je výkladovou otázkou s ohledem na uzavřený okruh nároků.
+- *„Povinná osoba musí vydat i nájemné, které od doručení výzvy vybírala.“* Riziko pro oprávněnou osobu: § 12 odst. 1 takový nárok nezakládá (NS 28 Cdo 3873/2022); fixace stavu ke dni doručení výzvy se netýká užitků věci.
 - *Výkladová otázka:* zda zánik zástavního práva podle odst. 2 postihuje i zástavní práva zřízená ve prospěch třetích osob k zajištění jejich vlastních závazků; text nerozlišuje.
 - *Riziko lhůt:* lhůta 1 roku od vydání je prekluzivní; po jejím uplynutí trvají smlouvy podle svého obsahu.
 
@@ -353,7 +366,7 @@ Smlouvy o užívání věci (nájem, pacht, výpůjčka aj.) a smlouvy o právu 
 - [ ] Ověřit zástavní práva a zajistit jejich výmaz po vydání.
 - [ ] Sestavit seznam užívacích smluv a věcných břemen uzavřených před 1. 1. 2013 a posoudit nápadnou nevýhodnost.
 - [ ] Výpověď doručit do 1 roku od vydání; šestiměsíční výpovědní doba.
-- [ ] Nevznášet nároky, které zákon nestanoví (uzavřený okruh, odst. 1 věty druhá a třetí).
+- [ ] Nevznášet nároky, které zákon nestanoví (uzavřený okruh, odst. 1 věty druhá a třetí) — ani nárok na nájemné přijaté povinnou osobou od doručení výzvy (NS 28 Cdo 3873/2022).
 
 **Typicky rozhodné důkazy / podklady:** výzva s datem doručení, protokol o stavu věci, výpis z katastru (zástavní práva, služebnosti), užívací smlouvy, srovnávací údaje o obvyklém nájemném a pachtovném.
 
@@ -385,6 +398,8 @@ Smlouvy o užívání věci (nájem, pacht, výpůjčka aj.) a smlouvy o právu 
 
 - *NS* [28 Cdo 2527/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A4F7EB2EDAA4E11C12587BF001EB8B3?openDocument) — 7. 10. 2021, kat. A
   > „I. Spravedlivým důvodem pro nabytí obohacení se primárně rozumí důvod právní. O existenci spravedlivého důvodu, jenž není důvodem právním a plyne ze zásad slušnosti a zvyklostí soukromého života, lze uvažovat jen zcela výjimečně. II. Za právní důvod pro nabytí obohacení lze zásadně označovat právní skutečnost, jež obohacenému zakládá právo, aby na úkor ochuzeného získal majetkový prospěch, respektive aby si tento majetkový prospěch podržel, případně právní normu, z níž takové oprávnění vyplývá přímo. III. Ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012 a § 13 zákona č. 428/2012 Sb. nezakládala právní důvod k užívání historického majetku církví ve vlastnictví státu třetími osobami"
+
+**K místní judikaturní kartě NS 28 Cdo 2527/2021:** K § 13 míří přímo bod III právní věty: § 13, stejně jako dřívější § 29 zákona o půdě ve znění účinném do 31. 12. 2012, nezakládal právní důvod k tomu, aby historický majetek církví ve vlastnictví státu užívaly třetí osoby. Blokace je zákazem dispozic státu, nikoli titulem užívání; třetí osoba, která původní majetek užívá, se proto nemůže dovolávat § 13 jako důvodu, pro který si prospěch z užívání smí podržet. Body I a II se týkají obecného pojmu spravedlivého (primárně právního) důvodu obohacení v občanském zákoníku, nikoli ZMVC; pro § 13 mají význam tam, kde se užívání původního majetku bez platného titulu vypořádává podle pravidel o bezdůvodném obohacení.
 
 #### Účel a návaznost na dřívější blokační ustanovení
 
@@ -425,6 +440,7 @@ Ode dne doručení výzvy k vydání movité věci nesmí povinná osoba věc p�
 #### G. Protiargumenty a rizika
 
 - *„Nájemce byl v dobré víře, nevěděl o uplatněném nároku.“* Neutralizace: odst. 2 dobrou víru nabyvatele či uživatele nezohledňuje; blokace působí objektivně.
+- *„Užívání bylo kryto zákonem, protože věc byla pro účely restituce blokována.“* Neutralizace: § 13 nezakládá právní důvod k užívání historického majetku církví ve vlastnictví státu třetími osobami (NS 28 Cdo 2527/2021, bod III); blokace dispozice zakazuje, užívání neopravňuje.
 - *„Šlo jen o prodloužení dřívější smlouvy.“* Riziko: prodloužení lze kvalifikovat jako nové přenechání k užívání; výsledek závisí na obsahu dřívější smlouvy (automatická prolongace vs. nové ujednání) — výkladová otázka.
 - *Výkladová otázka:* povaha neplatnosti (absolutní vs. relativní) a vztah k pravidlům OZ o ochraně dobré víry.
 - *Riziko pro stát:* organizace, která poruší blokaci, se vystavuje nárokům třetích osob z neplatných smluv i nárokům oprávněné osoby na náhradu škody (odst. 3).

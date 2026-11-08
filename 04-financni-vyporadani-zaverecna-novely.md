@@ -61,6 +61,8 @@ Hlava IV obsahuje heterogenní soubor pravidel: žalobu o určení vlastnického
 - *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
   > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
 
+**K místní judikaturní kartě NS 28 Cdo 2255/2017:** Karta k § 15 míří jen nepřímo. Týká se fikce původního majetku u pozemků z pozemkových úprav podle zákona č. 139/2002 Sb., a tím otázky, zda lze konkrétní pozemek vydat; rozvedena je u § 2 písm. a) v kapitole [02](02-zakladni-vydani-osoby.md). O finanční náhradě právní věta nic neříká; náhrada podle odst. 2 je paušální a na posouzení jednotlivých pozemků nezávisí.
+
 #### Funkce finanční náhrady a okruh dotčených církví (odst. 1 a 2)
 
 Finanční náhrada je **paušální** kompenzací za ten původní majetek registrovaných církví a náboženských společností, který se stal v rozhodném období předmětem majetkové křivdy v důsledku skutečností podle § 5 a který se podle zákona **nevydává** (srov. § 16 odst. 2 písm. a)). Nejde o náhradu za jednotlivé věci určovanou oceněním, ale o pevnou částku stanovenou přímo zákonem pro každou z 17 dotčených církví a náboženských společností vyjmenovaných v odst. 2. Legislativní zkratka „dotčená církev a náboženská společnost“ zahrnuje jen subjekty z tohoto výčtu; ostatní registrované církve na finanční náhradu nárok nemají, i když mohou být oprávněnými osobami podle § 3 při vydávání věcí. Výčet v odst. 2 se nekryje s okruhem registrovaných církví podle zákona o církvích a náboženských společnostech.
@@ -312,6 +314,8 @@ Závazek vyplácet příspěvek musí být součástí smlouvy o vypořádání 
 - *NS* [28 Cdo 1246/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE6D7BF8EC24CA7C125801B002509F9?openDocument) — 21. 6. 2016, kat. A
   > „Převodu historického majetku církví v dražbě prováděné na základě zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb. ve znění účinném do 31. 12. 2012 pakliže by předmětem dražby odehrávající se po dni účinnosti zákona č. 229/1991 Sb. byl zemědělský majetek, mohlo jeho převod znemožnit ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012"
 
+**K místní judikaturní kartě NS 28 Cdo 1246/2016:** Karta míří na předpoklad žaloby podle odst. 1 — rozpor převodu s § 3 zákona č. 92/1991 Sb. nebo s § 29 zákona o půdě ve znění účinném do 31. 12. 2012 — a vykládá tedy tato starší blokační ustanovení, nikoli text ZMVC. Podle právní věty převodu historického majetku církví v dražbě prováděné na základě zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb.; určovací žalobu podle odst. 1 proto nelze opřít o tvrzený rozpor takového převodu s tímto ustanovením. Byl-li však předmětem dražby, která proběhla po dni účinnosti zákona o půdě, zemědělský majetek, mohl jeho převod znemožnit § 29 zákona o půdě; v tomto rozsahu žaloba podle odst. 1 v úvahu přichází. Před podáním žaloby je proto třeba určit právní titul převodu, datum dražby a zemědělskou povahu věci.
+
 #### Žaloba o určení vlastnického práva státu (odst. 1)
 
 Odst. 1 reaguje na situace, kdy věc z původního majetku registrovaných církví byla před 1. 1. 2013 převedena nebo přešla z majetku státu na jiné osoby **v rozporu s § 3 zákona č. 92/1991 Sb.** nebo **s § 29 zákona č. 229/1991 Sb.**, vždy **ve znění účinném do dne nabytí účinnosti ZMVC**. Obě ustanovení byla tzv. blokačními pravidly, která do vypořádání církevního majetku omezovala nakládání s ním; ZMVC je současně zrušil, resp. změnil (§ 20 a 21). Oprávněná osoba (§ 3) může podat **žalobu o určení vlastnického práva státu** — tedy nikoli o určení vlastnictví svého, ale státu, aby se věc „vrátila“ do okruhu věcí, které lze podle hlavy II vydat. Zákon tím oprávněné osobě přiznává aktivní legitimaci k určovací žalobě, jejíž předmět se jí přímo netýká; naléhavý právní zájem je dán zákonem.
@@ -378,6 +382,7 @@ Povinné osoby předkládají Ministerstvu kultury na stanoveném formuláři **
 - *„Lhůta k výzvě již uplynula.“* Neutralizace: u věcí převedených v rozporu s blokačními ustanoveními běží lhůta od právní moci určovacího rozsudku (odst. 1 věta za středníkem).
 - *„Oprávněná osoba nemá na určení vlastnictví státu naléhavý právní zájem.“* Neutralizace: aktivní legitimaci zakládá přímo odst. 1.
 - *„Obec nabyla pozemek v dobré víře.“* Riziko: střet s ochranou nabyvatele — výkladová otázka; odst. 4 vede k výkladu šetřícímu účel zákona.
+- *„Věc byla převedena v dražbě podle zákona č. 427/1990 Sb., na niž se blokace nevztahovala.“* Riziko: vůči § 3 odst. 1 zákona č. 92/1991 Sb. námitka obstojí; u zemědělského majetku draženého po dni účinnosti zákona o půdě však mohl převod znemožnit § 29 zákona o půdě (NS 28 Cdo 1246/2016).
 - *Výkladová otázka:* lhůta k podání určovací žaloby a pasivní legitimace; dosah odst. 8 vůči státu.
 
 #### H. Praktický závěr
@@ -386,6 +391,7 @@ Povinné osoby předkládají Ministerstvu kultury na stanoveném formuláři **
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Zjistit, zda věc přešla ze státu na jinou osobu v rozporu s § 3 ZPMSt nebo § 29 ZPud (znění do 31. 12. 2012).
+- [ ] U převodu v dražbě podle zákona č. 427/1990 Sb.: rozpor s § 3 odst. 1 ZPMSt nenastal; prověřit, zda nešlo o zemědělský majetek dražený po dni účinnosti zákona o půdě (§ 29 ZPud; NS 28 Cdo 1246/2016).
 - [ ] Ověřit stav zápisu v katastru k 1. 1. 2013 (fikce podle odst. 2).
 - [ ] Hlídat lhůtu k výzvě od právní moci určovacího rozsudku.
 - [ ] Uplatnit osvobození od soudního poplatku a bezplatné údaje z katastru.

@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2020** (dokument e-Sbírky `SB-2012-00428_2020-01-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad vychází z místně dostupného konsolidovaného znění zákona účinného od 1. 1. 2020, z jeho systematiky, preambule a výslovného výkladového pravidla § 18 odst. 4. Komentář neuvádí konkrétní soudní rozhodnutí ani spisové značky, které by nebyly doloženy v místních pramenech; tam, kde výklad není textem zákona jednoznačně určen, jej výslovně označuje jako **výkladovou otázku**. Řada ustanovení je již časově vyčerpána (prekluzivní lhůty k výzvě podle § 9 a 10, lhůty k uzavření smluv o vypořádání podle § 16, plošná blokace podle § 13, novelizační části druhá až sedmá), zatímco splácení finanční náhrady (§ 15) a vyplácení příspěvku na podporu činnosti (§ 17) jsou dlouhodobé závazky, které se dosud plní.
+> **Metodická poznámka:** Výklad vychází z místně dostupného konsolidovaného znění zákona účinného od 1. 1. 2020, z jeho systematiky, preambule a výslovného výkladového pravidla § 18 odst. 4. Komentář neuvádí konkrétní soudní rozhodnutí ani spisové značky, které by nebyly doloženy v místních pramenech; tam, kde výklad není textem zákona jednoznačně určen, jej výslovně označuje jako **výkladovou otázku**. Do kapitol je zapracováno sedm rozhodnutí Nejvyššího soudu z místních zdrojů (karty ve složce [judikatura/](judikatura/README.md), přehled v oddílu *Judikatura z místních zdrojů* níže); výkladové otázky, které tato rozhodnutí řeší, jsou v kapitolách podle nich upraveny. Řada ustanovení je již časově vyčerpána (prekluzivní lhůty k výzvě podle § 9 a 10, lhůty k uzavření smluv o vypořádání podle § 16, plošná blokace podle § 13, novelizační části druhá až sedmá), zatímco splácení finanční náhrady (§ 15) a vyplácení příspěvku na podporu činnosti (§ 17) jsou dlouhodobé závazky, které se dosud plní.
 
 ---
 
@@ -42,7 +42,7 @@ Pozemkový fond a Lesy ČR vydávají nemovité věci z původního majetku bez 
 
 ### Postup vydání a prekluzivní lhůty
 
-Vydání se zahajuje **písemnou výzvou** oprávněné osoby do 12 měsíců od účinnosti zákona, jinak nárok zaniká (§ 9 odst. 1, § 10 odst. 1). U zemědělských nemovitostí následuje dohoda podléhající **schválení pozemkovým úřadem**, případně rozhodnutí pozemkového úřadu přezkoumatelné v řízení podle části páté občanského soudního řádu (§ 9); u jiných věcí dohoda a **vklad do katastru**, případně návrh na soud na nahrazení projevu vůle ve lhůtě 3 let (§ 10). § 11 řeší výzvu doručenou **nepříslušné osobě**, § 12 stav vydávané věci a zánik zástavního práva, § 14 dělení a scelování pozemků a náklady.
+Vydání se zahajuje **písemnou výzvou** oprávněné osoby do 12 měsíců od účinnosti zákona, jinak nárok zaniká (§ 9 odst. 1, § 10 odst. 1); lhůta podle § 9 odst. 1 běžela podle NS 28 Cdo 2703/2018 od 1. 1. 2013 do 2. 1. 2014 a nárok předpokládá, že stát nemovitost v této lhůtě vlastnil. U zemědělských nemovitostí následuje dohoda podléhající **schválení pozemkovým úřadem**, případně rozhodnutí pozemkového úřadu přezkoumatelné v řízení podle části páté občanského soudního řádu (§ 9); u jiných věcí dohoda a **vklad do katastru**, případně návrh na soud na nahrazení projevu vůle ve lhůtě 3 let (§ 10). § 11 řeší výzvu doručenou **nepříslušné osobě**, § 12 stav vydávané věci a zánik zástavního práva, § 14 dělení a scelování pozemků a náklady.
 
 ### Blokace původního majetku
 
@@ -55,6 +55,20 @@ Sedmnáct **dotčených církví a náboženských společností** obdrží pau�
 ### Závěrečná ustanovení
 
 § 18 obsahuje **určovací žalobu** o vlastnické právo státu k věcem převedeným v rozporu s dřívějšími blokačními ustanoveními, **zákonnou fikci vlastnictví** u nezrušených zápisů v katastru, osvobození od soudních poplatků, **teleologické výkladové pravidlo** (odst. 4), povinnost součinnosti orgánů veřejné moci a katastrálních úřadů, výluku Katedrály sv. Víta, Václava a Vojtěcha a dvou budov na Hradčanech a statistickou povinnost povinných osob.
+
+## Judikatura z místních zdrojů
+
+Složka [judikatura/](judikatura/README.md) obsahuje sedm karet rozhodnutí Nejvyššího soudu (všechna kategorie A, tj. publikovaná ve Sbírce soudních rozhodnutí a stanovisek). Karty jsou zařazeny u jedenácti ustanovení; u každého výskytu kapitola vysvětluje, co z právní věty pro dané ustanovení plyne a zda karta míří přímo, nebo jen nepřímo:
+
+- **NS 28 Cdo 2255/2017** ([karta](judikatura/NS-28-Cdo-2255-2017.md); u § 1, § 2 a § 15, věcně k § 2 písm. a)) — fikce původního majetku u pozemků nově vzniklých v pozemkových úpravách podle zákona č. 139/2002 Sb. nemohla nastat, nebylo-li s původním majetkem nakládáno odděleně od jiné půdy ve vlastnictví státu.
+- **NS 28 Cdo 2703/2018** ([karta](judikatura/NS-28-Cdo-2703-2018.md); u § 4, § 6 a § 9) — prekluzivní lhůta k výzvě podle § 9 odst. 1 běžela od 1. 1. 2013 do 2. 1. 2014; nevlastnil-li stát nemovitost v této lhůtě, předpoklady naturální restituce naplněny nejsou.
+- **NS 28 Cdo 2854/2019** ([karta](judikatura/NS-28-Cdo-2854-2019.md); u § 7) — účelový důvod podle § 7 odst. 1 písm. b) naplní jen nemovitost, která v rozhodném období bezprostředně sloužila vyjmenovanému účelu; zatížení patronátním právem nestačí.
+- **NS 28 Cdo 164/2020** ([karta](judikatura/NS-28-Cdo-164-2020.md); u § 8, § 9 a § 12, věcně k § 8 odst. 1 písm. f)) — obsah územně plánovací dokumentace se pro výluku veřejně prospěšných staveb posuzuje ke dni doručení výzvy povinné osobě.
+- **NS 28 Cdo 3873/2022** ([karta](judikatura/NS-28-Cdo-3873-2022.md); u § 12) — § 12 odst. 1 nezakládá nárok oprávněné osoby na vydání nájemného, které povinná osoba přijímala od doručení výzvy.
+- **NS 28 Cdo 2527/2021** ([karta](judikatura/NS-28-Cdo-2527-2021.md); u § 13) — § 13, stejně jako dřívější § 29 zákona o půdě, nezakládal právní důvod k užívání historického majetku církví ve vlastnictví státu třetími osobami.
+- **NS 28 Cdo 1246/2016** ([karta](judikatura/NS-28-Cdo-1246-2016.md); u § 18, věcně k odst. 1) — převodu v dražbě podle zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb.; u zemědělského majetku draženého po dni účinnosti zákona o půdě mohl převod znemožnit § 29 zákona o půdě.
+
+Karty rozhodnutí Ústavního soudu ani Nejvyššího správního soudu složka neobsahuje. Ustanovení bez karty (§ 3, § 5, § 10, § 11, § 14, § 16, § 17 a § 19 až 26) nemají v místních zdrojích judikatorní oporu a jejich výkladové otázky zůstávají otevřené.
 
 ## Vazby na jiné předpisy
 
@@ -71,6 +85,7 @@ Sedmnáct **dotčených církví a náboženských společností** obdrží pau�
 
 - U každého ustanovení je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr.
 - Kazuistiky jsou **modelové** a neodkazují na konkrétní soudní rozhodnutí; komentář nepoužívá vymyšlené spisové značky.
+- Rozhodnutí z místní složky [judikatura/](judikatura/README.md) jsou citována v bloku *Judikatura (z místních zdrojů)* u příslušného ustanovení; pod každou kartou následuje odstavec *K místní judikaturní kartě…*, který vymezuje její dosah, a výklad, oddíly G a H jsou s právní větou sladěny.
 - Výklad zohledňuje časové vrstvy předpisu: zánik Pozemkového fondu, zrušení zákona č. 265/1992 Sb. katastrálním zákonem a terminologii předchozího občanského zákoníku („právní úkon", „věcné břemeno").
 - Právní zásady vytěžené z kapitol shrnuje [ZASADY.md](ZASADY.md), normativní modality [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).
 

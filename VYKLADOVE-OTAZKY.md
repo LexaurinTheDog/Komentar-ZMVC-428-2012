@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi. Vychází výhradně z místních kapitol, místního znění předpisu citovaného v kapitolách a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi. Vychází výhradně z místních kapitol, místního znění předpisu citovaného v kapitolách a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; místní judikaturu tvoří sedm karet rozhodnutí Nejvyššího soudu ve složce [judikatura/](judikatura/README.md), zapracovaných do kapitol (přehled v [00-uvod.md](00-uvod.md)). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -81,7 +81,7 @@ Procesní sled je rozpracován zejména v [§ 9](03-postup-vydani-omezeni.md), [
 - [§ 10 — praktický závěr](03-postup-vydani-omezeni.md): „vydání se uskutečňuje dohodou, u evidovaných nemovitostí vkladem do katastru, a při nečinnosti či odmítnutí povinné osoby soudním nahrazením projevu vůle podaným do tří let od marného uplynutí lhůty k dohodě“
 - [§ 11 — praktický závěr](03-postup-vydani-omezeni.md): „§ 11 přenáší riziko chybného adresáta výzvy na stát: výzva doručená včas kterékoli osobě podle § 4 zachovává nárok a lhůta k dohodě běží až od doručení výzvy skutečně povinné osobě.“
 
-**Jak ji řešit.** Sestavte časovou osu od výzvy (12 měsíců od 1. 1. 2013) přes dohodu (6 měsíců), schválení nebo rozhodnutí pozemkového úřadu (6, popř. 12 měsíců, bez odvolání) až po záznam či vklad a žalobu (2 měsíce u části páté o. s. ř., 3 roky u nahrazení projevu vůle). U každé lhůty určete počátek, konec a následek zmeškání; posunutý počátek podle § 11 odst. 5 a § 18 odst. 1 výslovně zaznamenejte. Hmotněprávní prekluzi a pořádkové lhůty úřadů nezaměňujte.
+**Jak ji řešit.** Sestavte časovou osu od výzvy (12 měsíců od 1. 1. 2013, u § 9 podle NS 28 Cdo 2703/2018 do 2. 1. 2014) přes dohodu (6 měsíců), schválení nebo rozhodnutí pozemkového úřadu (6, popř. 12 měsíců, bez odvolání) až po záznam či vklad a žalobu (2 měsíce u části páté o. s. ř., 3 roky u nahrazení projevu vůle). U každé lhůty určete počátek, konec a následek zmeškání; posunutý počátek podle § 11 odst. 5 a § 18 odst. 1 výslovně zaznamenejte. Hmotněprávní prekluzi a pořádkové lhůty úřadů nezaměňujte.
 
 **Místní opora.** [§ 9 až 14](03-postup-vydani-omezeni.md); [§ 16 a § 18](04-financni-vyporadani-zaverecna-novely.md); [mapa modalit a lhůt](PRAVNI-MODALITY.md); [Procesní sled, příslušnost, forma a lhůty](HLOUBKOVY-VYKLAD.md)
 
@@ -95,7 +95,7 @@ Místně označené uzly dokazování a dokumentace: náležitosti výzvy podle 
 
 **Jak ji řešit.** Pro každý znak nároku vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný doklad (pozemkové knihy, katastrální operáty, zápisy národních výborů, inventáře, zřizovací listiny), kdo doklad opatřuje a následek neprokázání. Snížený standard výzvy (listina, uvedení důvodů, jiné osvědčení) neznamená přenesení rizika nejistoty ve sporu; to u znaků nároku zůstává na oprávněné osobě, u výluk a nezbytné potřeby státu na straně, která se jich dovolává (syntéza, místní korpus břemeno výslovně nerozděluje). Doplnění výzvy smí dokazovat, nikoli rozšiřovat nárok.
 
-**Místní opora.** [§ 3, § 5, § 7](02-zakladni-vydani-osoby.md); [§ 9 až 11](03-postup-vydani-omezeni.md); [§ 18](04-financni-vyporadani-zaverecna-novely.md); [místní modality](PRAVNI-MODALITY.md); složka `judikatura/` se doplní strojově později
+**Místní opora.** [§ 3, § 5, § 7](02-zakladni-vydani-osoby.md); [§ 9 až 11](03-postup-vydani-omezeni.md); [§ 18](04-financni-vyporadani-zaverecna-novely.md); [místní modality](PRAVNI-MODALITY.md); k vlastnictví státu v lhůtě k výzvě [NS 28 Cdo 2703/2018](judikatura/NS-28-Cdo-2703-2018.md), k účelovému užívání podle § 7 odst. 1 písm. b) [NS 28 Cdo 2854/2019](judikatura/NS-28-Cdo-2854-2019.md)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -134,14 +134,20 @@ Hranici teleologického argumentu formuluje sama preambule:
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje žádnou místní kartu rozhodnutí; složka `judikatura/` bude doplněna strojově později. Systematický soubor zásad odkazuje na **0** místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku k ZMVC.
+Složka [judikatura/](judikatura/README.md) obsahuje **7** místních karet rozhodnutí Nejvyššího soudu (kategorie A), citovaných u 11 ustanovení; zásady 2 až 5 v [ZASADY.md](ZASADY.md) z nich doslovně citují. Z právních vět plyne:
+- lhůta k výzvě podle § 9 odst. 1 běžela od 1. 1. 2013 do 2. 1. 2014 a bez vlastnictví státu v této lhůtě nejsou předpoklady naturální restituce ([NS 28 Cdo 2703/2018](judikatura/NS-28-Cdo-2703-2018.md); § 4, § 6, § 9);
+- § 7 odst. 1 písm. b) vyžaduje bezprostřední službu vyjmenovanému účelu, patronátní zatížení nestačí ([NS 28 Cdo 2854/2019](judikatura/NS-28-Cdo-2854-2019.md));
+- obsah územně plánovací dokumentace se pro výluku podle § 8 odst. 1 písm. f) posuzuje ke dni doručení výzvy ([NS 28 Cdo 164/2020](judikatura/NS-28-Cdo-164-2020.md); § 8, § 9, § 12);
+- § 12 odst. 1 nezakládá nárok na nájemné přijaté povinnou osobou od doručení výzvy ([NS 28 Cdo 3873/2022](judikatura/NS-28-Cdo-3873-2022.md));
+- § 13 nezakládal právní důvod k užívání historického majetku církví ve vlastnictví státu třetími osobami ([NS 28 Cdo 2527/2021](judikatura/NS-28-Cdo-2527-2021.md));
+- jen nepřímo k ZMVC: fikce původního majetku u pozemků z pozemkových úprav nenastala bez odděleného nakládání s nimi ([NS 28 Cdo 2255/2017](judikatura/NS-28-Cdo-2255-2017.md); § 1, § 2, § 15) a dražbě podle zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb., kdežto u zemědělského majetku mohl převod znemožnit § 29 zákona o půdě ([NS 28 Cdo 1246/2016](judikatura/NS-28-Cdo-1246-2016.md); § 18 odst. 1).
 - [00-uvod.md](00-uvod.md): „tam, kde výklad není textem zákona jednoznačně určen, jej výslovně označuje jako výkladovou otázku“
 
-Místní korpus proto neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet a výkladové otázky komentáře zůstávají otevřené.
+Karty tím uzavírají otázku rozhodného okamžiku u výluky podle § 8 odst. 1 písm. f) a zčásti otázku rozhodného dne vlastnictví státu u § 6; ostatní výkladové otázky komentáře zůstávají otevřené. Hranicí použitelnosti je, že karty obsahují jen právní větu bez skutkového stavu a že každá zachycuje jediné rozhodnutí.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění ZMVC a stejný institut. Právní větu z obecných restitučních předpisů nepřenášejte bez kontroly textových rozdílů; chybějící místní judikaturu označte jako mezeru.
+**Jak ji řešit.** U každého rozhodnutí oddělte nosný závěr právní věty od toho, co z něj komentář dovozuje; skutkové a procesní předpoklady ověřte v plném textu. Ověřte, zda soud vykládal stejné znění ZMVC a stejný institut — karty k zákonu č. 139/2002 Sb., k zákonu č. 92/1991 Sb. a k zákonu o půdě míří k ZMVC jen nepřímo. Závěr karty nepřenášejte na sousední institut (např. z písm. f) na ostatní výluky § 8) bez kontroly textu; u ustanovení bez karty označte chybějící místní judikaturu jako mezeru.
 
-**Místní opora.** [místní zásady](ZASADY.md); [metodická poznámka](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [místní zásady](ZASADY.md); [metodická poznámka a přehled judikatury](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [složka judikatura/](judikatura/README.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -167,6 +173,7 @@ Každé ustanovení má oddíl *G. Protiargumenty a rizika*; kapitoly navíc vý
 - [§ 10 — přechod z § 9](03-postup-vydani-omezeni.md): „Pro běh tříleté lhůty v těchto případech zákon výslovné pravidlo nestanoví“
 - [§ 11 odst. 7 — vlastník jiný než stát](03-postup-vydani-omezeni.md): „Zda se soudní uplatnění podle odst. 7 vůči jinému vlastníku než státu vůbec může prosadit, závisí na hmotněprávních podmínkách zákona“
 - [§ 16 — ochrana vyplacených prostředků](04-financni-vyporadani-zaverecna-novely.md): „zda se ochrana vztahuje i na již vyplacené prostředky na účtu církve, zákon neříká“
+- [§ 8 — rozhodný okamžik výluk](02-zakladni-vydani-osoby.md): „u ostatních výluk (užívání stavby, užívání bezpečnostním sborem) jde nadále o výkladovou otázku“ — u písm. f) otázku řeší NS 28 Cdo 164/2020.
 - [§ 18 odst. 1 — lhůta a pasivní legitimace](04-financni-vyporadani-zaverecna-novely.md): „Zákon pro podání žaloby nestanoví lhůtu; výkladovou otázkou je, zda a jak se uplatní obecná pravidla o promlčení či prekluzi a kdo je pasivně legitimován“
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -190,9 +197,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-preambule](01-preambule.md); [02
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitol a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **5** kapitol a **7** karet rozhodnutí Nejvyššího soudu (u 11 ustanovení), doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově);
+- místní judikatura pokrývá jen 11 ustanovení (§ 3, § 5, § 10, § 11, § 14, § 16, § 17 a § 19 až 26 bez karty) a karty neobsahují skutkový stav rozhodnutí;
 - v repozitáři není místní důvodová zpráva;
 - evropské vazby nejsou rozpracovány;
 - přesný den vyhlášení zákona (počátek § 13) není místně doložen;

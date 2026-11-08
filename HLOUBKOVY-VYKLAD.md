@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (citační bloky v kapitolách 02–04).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři jde o sedm karet Nejvyššího soudu ve složce [judikatura/](judikatura/README.md) (přehled ve vrstvě 9).
 - **Syntéza:** autorské propojení textu, systematiky, preambule a výkladového pravidla § 18 odst. 4.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo ji sám výslovně označuje jako výkladovou otázku.
 
-Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod, preambule a tři výkladové kapitoly), **27 samostatně nadepsaných výkladových jednotek** (preambule a § 1 až 26), **37 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **8 zásad** v [ZASADY.md](ZASADY.md) a **0 místních karet rozhodnutí**. Rejstřík ustanovení je v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod, preambule a tři výkladové kapitoly), **27 samostatně nadepsaných výkladových jednotek** (preambule a § 1 až 26), **37 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **8 zásad** v [ZASADY.md](ZASADY.md) a **7 místních karet rozhodnutí** Nejvyššího soudu ve složce [judikatura/](judikatura/README.md), citovaných u 11 ustanovení. Rejstřík ustanovení je v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -31,7 +31,7 @@ Místně zachycené údaje o znění, účinnosti nebo změnách:
 
 Samostatně označené časové uzly: [§ 13 — Omezení převodu](03-postup-vydani-omezeni.md) (účinnost dnem vyhlášení); [§ 17 — přechodné období 17 let](04-financni-vyporadani-zaverecna-novely.md); [§ 19 — Zrušovací ustanovení](04-financni-vyporadani-zaverecna-novely.md); [§ 20 až 25 — vyčerpané novelizační části](04-financni-vyporadani-zaverecna-novely.md); [§ 26 — Účinnost](04-financni-vyporadani-zaverecna-novely.md).
 
-**Syntéza.** ZMVC pracuje s nejméně sedmi rozhodnými okamžiky, které nelze zaměňovat: (1) rozhodné období 25. 2. 1948 – 1. 1. 1990 pro vznik křivdy (§ 1, § 5); (2) 24. 6. 1991 pro zařazení pozemku do zemědělského nebo lesního půdního fondu (§ 2 písm. b) body 1 a 2); (3) den vyhlášení zákona pro počátek plošné blokace (§ 13, § 26); (4) 1. 1. 2013 pro registraci církve, běh dvanáctiměsíční lhůty k výzvě, stav zápisu pro fikci vlastnictví a rozhodné znění blokačních ustanovení (§ 1, § 9, § 10, § 18 odst. 1 a 2); (5) den doručení výzvy pro stav vydávané věci (§ 12 odst. 1); (6) den uzavření smlouvy o vypořádání pro fixaci jejího účelu (§ 16 odst. 2 písm. g)); (7) dlouhodobé plnění do roku 2029 (příspěvek) a 2042 (poslední splátka finanční náhrady).
+**Syntéza.** ZMVC pracuje s nejméně sedmi rozhodnými okamžiky, které nelze zaměňovat: (1) rozhodné období 25. 2. 1948 – 1. 1. 1990 pro vznik křivdy (§ 1, § 5); (2) 24. 6. 1991 pro zařazení pozemku do zemědělského nebo lesního půdního fondu (§ 2 písm. b) body 1 a 2); (3) den vyhlášení zákona pro počátek plošné blokace (§ 13, § 26); (4) 1. 1. 2013 pro registraci církve, počátek dvanáctiměsíční lhůty k výzvě (u § 9 podle NS 28 Cdo 2703/2018 do 2. 1. 2014, s vlastnictvím státu v této lhůtě jako předpokladem nároku), stav zápisu pro fikci vlastnictví a rozhodné znění blokačních ustanovení (§ 1, § 9, § 10, § 18 odst. 1 a 2); (5) den doručení výzvy pro stav vydávané věci (§ 12 odst. 1) a podle NS 28 Cdo 164/2020 i pro obsah územně plánovací dokumentace u výluky podle § 8 odst. 1 písm. f); (6) den uzavření smlouvy o vypořádání pro fixaci jejího účelu (§ 16 odst. 2 písm. g)); (7) dlouhodobé plnění do roku 2029 (příspěvek) a 2042 (poslední splátka finanční náhrady).
 
 **Hloubkový test.**
 - Určete znění rozhodné pro skutkový stav: u převodů do 31. 12. 2012 původní blokační § 3 zákona č. 92/1991 Sb. a § 29 zákona o půdě, od vyhlášení ZMVC § 13 ZMVC.
@@ -166,7 +166,7 @@ Místně zachycené časové a pořadové body:
 
 | Krok | Adresát | Lhůta nebo okamžik | Následek zmeškání nebo vady |
 |---|---|---|---|
-| Výzva (§ 9 odst. 1, § 10 odst. 1) | oprávněná osoba | 12 měsíců od 1. 1. 2013 | zánik nároku |
+| Výzva (§ 9 odst. 1, § 10 odst. 1) | oprávněná osoba | 12 měsíců od 1. 1. 2013 (u § 9 podle NS 28 Cdo 2703/2018 do 2. 1. 2014) | zánik nároku; bez vlastnictví státu v lhůtě chybí předpoklady vydání |
 | Kopie výzvy pozemkovému úřadu (§ 9 odst. 1) | povinná osoba | 15 dnů od obdržení | text sankci nestanoví |
 | Postoupení nepříslušnou osobou (§ 11 odst. 1 až 3) | nepříslušná osoba | 15 pracovních dnů; katastrální úřad 6 měsíců | lhůta oprávněné osoby zachována (§ 11 odst. 5) |
 | Dohoda (§ 9 odst. 2, § 10 odst. 2) | obě strany | 6 měsíců od doručení výzvy, popř. podle § 11 odst. 5 | otevírá návrh nebo soudní cestu |
@@ -234,7 +234,8 @@ Reprezentativní normativní vazby porušení a následku:
 **Hloubkový test.**
 - Spojte porušenou primární normu se sekundárním následkem, aktivně legitimovanou osobou, příslušným orgánem a lhůtou.
 - U neplatnosti podle § 13 odst. 2 určete rozhodný občanský zákoník podle data právního jednání a zaujměte stanovisko k absolutní či relativní povaze.
-- Prověřte, zda uzavřený okruh nároků podle § 12 odst. 1 nevylučuje požadovaný nárok (užitky, zhoršení stavu, investice).
+- Prověřte, zda uzavřený okruh nároků podle § 12 odst. 1 nevylučuje požadovaný nárok (užitky, zhoršení stavu, investice); nárok na nájemné přijaté povinnou osobou od doručení výzvy § 12 odst. 1 nezakládá ([NS 28 Cdo 3873/2022](judikatura/NS-28-Cdo-3873-2022.md)).
+- Užívání původního majetku třetími osobami nelze opírat o blokaci: § 13 právní důvod užívání nezakládá ([NS 28 Cdo 2527/2021](judikatura/NS-28-Cdo-2527-2021.md)).
 - U nevydatelné věci nevytvářejte individuální náhradový nárok; ověřte, zda jde o dotčenou církev a o vypořádání smlouvou.
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 8](02-zakladni-vydani-osoby.md); [§ 12 a § 13](03-postup-vydani-omezeni.md); [§ 15, § 16, § 18](04-financni-vyporadani-zaverecna-novely.md)
@@ -242,19 +243,29 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku místních karet rozhodnutí; složka `judikatura/` bude doplněna strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly neobsahují žádnou spisovou značku rozhodnutí k ZMVC.
+Složka [judikatura/](judikatura/README.md) obsahuje **7 místních karet rozhodnutí Nejvyššího soudu** (všechna kategorie A), citovaných u 11 z 26 ustanovení (13 výskytů). Pod každým výskytem karty kapitola vymezuje, co z právní věty pro dané ustanovení plyne a zda karta míří přímo, nebo nepřímo; přehled podává [00-uvod.md — Judikatura z místních zdrojů](00-uvod.md). Karty ÚS ani NSS složka neobsahuje.
 - [00-uvod.md](00-uvod.md): „Komentář neuvádí konkrétní soudní rozhodnutí ani spisové značky, které by nebyly doloženy v místních pramenech“
 - [00-uvod.md — poznámka k metodě](00-uvod.md): „Kazuistiky jsou modelové a neodkazují na konkrétní soudní rozhodnutí; komentář nepoužívá vymyšlené spisové značky.“
 
-Jediné zmínky o rozhodnutích Ústavního soudu v kapitolách jsou součástí citace novelizovaného zákona o půdě v § 21 (výčet jeho předchozích novel a nálezů); judikatorní tezi k ZMVC nepředstavují. Judikatorní závěr se proto nesmí domýšlet.
+| Karta | Kde je zařazena | Kam věcně míří | Nosný závěr pro ZMVC |
+|---|---|---|---|
+| [NS 28 Cdo 2255/2017](judikatura/NS-28-Cdo-2255-2017.md) | § 1, § 2, § 15 | § 2 písm. a) (nepřímo, vykládá zákon č. 139/2002 Sb.) | fikce původního majetku u pozemků z pozemkových úprav nenastala bez odděleného nakládání s původním majetkem |
+| [NS 28 Cdo 2703/2018](judikatura/NS-28-Cdo-2703-2018.md) | § 4, § 6, § 9 | § 9 odst. 1 a podmínka vlastnictví státu (§ 6) | lhůta k výzvě 1. 1. 2013 – 2. 1. 2014; bez vlastnictví státu v lhůtě nejsou předpoklady naturální restituce |
+| [NS 28 Cdo 2854/2019](judikatura/NS-28-Cdo-2854-2019.md) | § 7 | § 7 odst. 1 písm. b) (přímo) | účel musel být naplněn bezprostředně; patronátní zatížení nestačí |
+| [NS 28 Cdo 164/2020](judikatura/NS-28-Cdo-164-2020.md) | § 8, § 9, § 12 | § 8 odst. 1 písm. f) (přímo) | obsah územně plánovací dokumentace se posuzuje ke dni doručení výzvy |
+| [NS 28 Cdo 3873/2022](judikatura/NS-28-Cdo-3873-2022.md) | § 12 | § 12 odst. 1 (přímo) | žádný nárok na nájemné přijaté povinnou osobou od doručení výzvy |
+| [NS 28 Cdo 2527/2021](judikatura/NS-28-Cdo-2527-2021.md) | § 13 | § 13 (přímo bodem III) | § 13 ani dřívější § 29 zákona o půdě nezakládaly právní důvod užívání třetími osobami |
+| [NS 28 Cdo 1246/2016](judikatura/NS-28-Cdo-1246-2016.md) | § 18 | § 18 odst. 1 (nepřímo, vykládá § 3 odst. 1 zákona č. 92/1991 Sb. a § 29 zákona o půdě) | dražbě podle zákona č. 427/1990 Sb. § 3 odst. 1 zákona č. 92/1991 Sb. nebránil; u zemědělského majetku mohl převod znemožnit § 29 zákona o půdě |
+
+Karty uzavírají nebo zužují dosud otevřené výkladové otázky: rozhodný okamžik u výluky podle § 8 odst. 1 písm. f) (dříve označen jako výkladová otázka v oddílu G k § 8), rozhodný okamžik vlastnictví státu (§ 6 — zčásti) a rozsah uzavřeného okruhu nároků u užitků (§ 12). Ostatní výkladové otázky komentáře zůstávají otevřené. Karty nezachycují skutkové okolnosti ani průběh řízení; jejich dosah je proto třeba odvozovat jen z právní věty. Jediné další zmínky o rozhodnutích Ústavního soudu v kapitolách jsou součástí citace novelizovaného zákona o půdě v § 21 (výčet jeho předchozích novel a nálezů); judikatorní tezi k ZMVC nepředstavují.
 
 **Hloubkový test.**
-- Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
-- Ověřte, zda soud vykládal stejné znění ZMVC a stejný institut (např. funkční souvislost, výluku zastavěného pozemku, neplatnost podle § 13 odst. 2), a zda šlo o řízení podle části páté o. s. ř., nebo o jiný typ řízení.
-- Nepřenášejte závěry z obecných restitučních předpisů (zákon o půdě, zákon o mimosoudních rehabilitacích) bez kontroly rozdílů v textu — komentář na ně sám upozorňuje u § 5.
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; do té doby ponechte výkladové otázky komentáře otevřené.
+- U každé karty oddělte nosný závěr právní věty od toho, co z ní komentář dovozuje; skutkové a procesní předpoklady karty neuvádějí, při dalším psaní je proto ověřte v plném textu rozhodnutí.
+- Ověřte, zda soud vykládal stejné znění ZMVC a stejný institut: karty NS 28 Cdo 2255/2017 a NS 28 Cdo 1246/2016 a body I a II karty NS 28 Cdo 2527/2021 vykládají jiné předpisy (zákon č. 139/2002 Sb., zákon č. 92/1991 Sb., zákon o půdě, občanský zákoník) a k ZMVC míří jen nepřímo.
+- Nepřenášejte závěr karty na sousední institut bez kontroly textu — např. rozhodný okamžik podle NS 28 Cdo 164/2020 je stanoven jen pro písm. f), nikoli pro ostatní výluky § 8 odst. 1.
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku; u každé karty jde o jediné rozhodnutí, nikoli o doloženou linii.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [metodická poznámka](00-uvod.md)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [metodická poznámka a přehled judikatury](00-uvod.md); [složka judikatura/](judikatura/README.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -264,13 +275,14 @@ Kapitoly obsahují u každého ustanovení oddíl *G. Protiargumenty a rizika* a
 - [§ 1 — konec rozhodného období](02-zakladni-vydani-osoby.md): „Výkladovou otázkou je, zda se den 1. ledna 1990 do rozhodného období ještě zahrnuje“
 - [§ 4 — dvojí role Státního pozemkového úřadu](02-zakladni-vydani-osoby.md): „Ve stejné osobě se tak setkává role povinné osoby a orgánu, který dohodu schvaluje nebo o vydání rozhoduje (§ 9 odst. 3 až 6)“
 - [§ 5 — vztah obecných a zvláštních skutkových podstat](02-zakladni-vydani-osoby.md): „pokud skutkový stav zjevně odpovídá konkrétní skutkové podstatě, jejíž podmínky naplněny nejsou (např. vyvlastnění za náhradu u věci, která účelu slouží), nelze jej bez dalšího“ podřadit pod obecné písm. j).
-- [§ 6 — rozhodný den vlastnictví státu](02-zakladni-vydani-osoby.md): „s ohledem na § 13 a § 12 odst. 1 (stav věci ke dni doručení výzvy) je nejvíce opodstatněn den doručení výzvy“
+- [§ 6 — rozhodný den vlastnictví státu](02-zakladni-vydani-osoby.md): „s ohledem na § 13 a § 12 odst. 1 (stav věci ke dni doručení výzvy) je nejvíce opodstatněn den doručení výzvy“ — zčásti uzavřeno kartou [NS 28 Cdo 2703/2018](judikatura/NS-28-Cdo-2703-2018.md): vlastnictví státu musí být dáno v prekluzivní lhůtě k výzvě.
+- [§ 8 — rozhodný okamžik výluk](02-zakladni-vydani-osoby.md): „U písm. f) jej určuje místní karta NS 28 Cdo 164/2020“ — u ostatních výluk otázka trvá.
 - [§ 7 — historická funkční souvislost](02-zakladni-vydani-osoby.md): „Sporné je, zda postačí souvislost historická, ačkoli dnes je věc trvale užívána jinak, a jak posuzovat sbírkové předměty umístěné ve státních muzeích po desetiletí.“
 - [§ 8 odst. 2 — trvání povinnosti strpět užívání](02-zakladni-vydani-osoby.md): „Výkladovou otázkou je, zda povinnost trvá celých 10 let i tehdy, když podmínka nezbytné potřeby v průběhu doby odpadne; účel zákona (§ 18 odst. 4) a výjimečná povaha omezení svědčí pro její zánik.“
 - [§ 15 — deflace](04-financni-vyporadani-zaverecna-novely.md): „Zákon neupravuje případ deflace“
 - [§ 17 — příspěvek bez smlouvy](04-financni-vyporadani-zaverecna-novely.md): „Zda dotčená církev, která smlouvu odmítla uzavřít, má nárok na příspěvek přímo ze zákona, je výkladovou otázkou“
 
-**Syntéza.** Většina sporů se točí kolem tří os: (a) *čas* — který okamžik je rozhodný pro vlastnictví státu, užívání stavby, výluku nebo zemědělský charakter stavby; (b) *rozsah neurčitých pojmů* — funkční souvislost, tíseň, nápadně nevýhodné podmínky, jiná státní organizace; (c) *vztah zvláštního a obecného* — § 5 písm. j) a k) vůči písm. a) až i), § 18 odst. 8 vůči hlavě II, § 16 odst. 1 vůči novému občanskému zákoníku. Teleologické pravidlo § 18 odst. 4 rozhoduje jen mezi přípustnými variantami.
+**Syntéza.** Většina sporů se točí kolem tří os: (a) *čas* — který okamžik je rozhodný pro vlastnictví státu, užívání stavby, výluku nebo zemědělský charakter stavby (místní karty NS dávají dílčí odpověď u vlastnictví státu a u výluky podle § 8 odst. 1 písm. f), viz vrstva 9); (b) *rozsah neurčitých pojmů* — funkční souvislost, tíseň, nápadně nevýhodné podmínky, jiná státní organizace; (c) *vztah zvláštního a obecného* — § 5 písm. j) a k) vůči písm. a) až i), § 18 odst. 8 vůči hlavě II, § 16 odst. 1 vůči novému občanskému zákoníku. Teleologické pravidlo § 18 odst. 4 rozhoduje jen mezi přípustnými variantami.
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; využijte oddíly *G* jako výchozí katalog.
@@ -332,7 +344,7 @@ Stav poznání je posuzován nad **5 kapitolami**. Následující matice je reda
 - [§ 26 — výklad](04-financni-vyporadani-zaverecna-novely.md): „přesné datum je třeba ověřit v záhlaví částky, v níž byl zákon vyhlášen“
 
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní karty rozhodnutí zatím nejsou; složka `judikatura/` se doplní strojově a do té doby žádná kapitola nemá judikatorní oporu;
+- místní judikatura je omezena na 7 karet NS u 11 ustanovení; karty obsahují jen právní větu (u části rozhodnutí doslovnou pasáž), nikoli skutkový stav, a ustanovení § 3, § 5, § 10, § 11, § 14, § 16, § 17 a § 19 až 26 judikatorní oporu nemají;
 - repozitář neobsahuje místní důvodovou zprávu, historický argument proto stojí jen na textu, preambuli a systematice;
 - evropské (unijní a úmluvní) vazby nejsou rozpracovány;
 - přesný den vyhlášení zákona (počátek účinnosti § 13 a plošné blokace) není místně doložen;
@@ -355,15 +367,15 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | nenalezeno (jen metodická výhrada) | ano | ano | nenalezeno | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | ano (přehled 7 karet NS) | ano | ano | nenalezeno | ano |
 | [Kapitola 1 — Preambule](01-preambule.md) | jen odkazem | ano | částečně | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2 — § 1–8](02-zakladni-vydani-osoby.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 3 — § 9–14](03-postup-vydani-omezeni.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 4 — § 15–26](04-financni-vyporadani-zaverecna-novely.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Kapitola 2 — § 1–8](02-zakladni-vydani-osoby.md) | ano | ano | ano | ano (karty NS u § 1, 2, 4, 6, 7, 8) | ano | ano | ano | ano |
+| [Kapitola 3 — § 9–14](03-postup-vydani-omezeni.md) | ano | ano | ano | ano (karty NS u § 9, 12, 13) | ano | ano | ano | ano |
+| [Kapitola 4 — § 15–26](04-financni-vyporadani-zaverecna-novely.md) | ano | ano | ano | ano (karty NS u § 15, 18) | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v 5 z 5 kapitol; po strojovém doplnění složky `judikatura/` je nutné znovu projít výkladové otázky v kapitolách 2 až 4.
+- **Judikatura:** karty NS jsou zapracovány v kapitolách 2 až 4 a v úvodu; preambule judikatorní oporu nemá. Při doplnění dalších karet je nutné znovu projít výkladové otázky v kapitolách 2 až 4 a ověřit, zda karty z jiných předpisů (zákon č. 139/2002 Sb., zákon č. 92/1991 Sb., zákon o půdě) nejsou vykládány šířeji, než právní věta dovoluje.
 - **Důkazy:** v úvodu chybí souhrnná důkazní vrstva; podklady jsou rozptýleny v oddílech *Typicky rozhodné podklady*.
 - **Aplikace:** úvod neobsahuje modelový případ; aplikační vrstva je v kapitolách 1 až 4.
 - **Časová vrstva:** pozdější změny po 1. 1. 2020 a průběh splácení (§ 15) a příspěvku (§ 17) do let 2042 a 2029 vyžadují pravidelnou kontrolu.

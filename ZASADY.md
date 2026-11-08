@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-preambule.md](01-preambule.md), [02-zakladni-vydani-osoby.md](02-zakladni-vydani-osoby.md), [03-postup-vydani-omezeni.md](03-postup-vydani-omezeni.md) a [04-financni-vyporadani-zaverecna-novely.md](04-financni-vyporadani-zaverecna-novely.md), doplněné úvodním přehledem v [00-uvod.md](00-uvod.md). Každá zásada je doložena **doslovnou citací** z kapitol s uvedením souboru a ustanovení. Repozitář neobsahuje místní judikaturní karty k zákonu; zásady jsou proto dovozeny z textu zákona, jeho preambule, systematiky a výslovného výkladového pravidla § 18 odst. 4 — nikoli z judikatorních tezí. Žádná spisová značka zde není uváděna.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-preambule.md](01-preambule.md), [02-zakladni-vydani-osoby.md](02-zakladni-vydani-osoby.md), [03-postup-vydani-omezeni.md](03-postup-vydani-omezeni.md) a [04-financni-vyporadani-zaverecna-novely.md](04-financni-vyporadani-zaverecna-novely.md), doplněné úvodním přehledem v [00-uvod.md](00-uvod.md). Každá zásada je doložena **doslovnou citací** z kapitol s uvedením souboru a ustanovení. Zásady jsou dovozeny z textu zákona, jeho preambule, systematiky a výslovného výkladového pravidla § 18 odst. 4. Repozitář dále obsahuje sedm místních karet rozhodnutí Nejvyššího soudu (složka [judikatura/](judikatura/README.md), přehled v [00-uvod.md](00-uvod.md)); tam, kde právní věta zásadu potvrzuje nebo upřesňuje (zásady 2 až 5), je uvedena spisová značka s odkazem na kartu a doslovná citace právní věty z bloku judikatury v kapitole. Jiné spisové značky se neuvádějí. Zásady 1 a 6 až 8 místní judikaturní oporu nemají.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -69,7 +69,11 @@ Komentář k § 9 tuto konstrukci shrnuje (kap. [03](03-postup-vydani-omezeni.md
 
 > „Výzvu lze doplňovat o důvody, skutečnosti a listiny, nikoli však rozšiřovat uplatněný nárok (nové nemovitosti po uplynutí lhůty).“
 
-Praktickým důsledkem je, že ani teleologické pravidlo § 18 odst. 4 nemůže obnovit prekludovaný nárok; účel zákona se uplatní jen při výkladu toho, co bylo v lhůtě skutečně uplatněno.
+Konec lhůty k výzvě a její spojení s podmínkou vlastnictví státu upřesňuje místní karta [NS 28 Cdo 2703/2018](judikatura/NS-28-Cdo-2703-2018.md) (kap. [03](03-postup-vydani-omezeni.md), § 9 — judikatura):
+
+> „v prekluzivní lhůtě uvedené v § 9 odst. 1 větě první tohoto zákona, běžící od 1. 1. 2013 do 2. 1. 2014, v níž však nemovitost nevlastnil stát, pak nebyly naplněny zákonné předpoklady pro naturální restituci tohoto majetku“
+
+Praktickým důsledkem je, že ani teleologické pravidlo § 18 odst. 4 nemůže obnovit prekludovaný nárok; účel zákona se uplatní jen při výkladu toho, co bylo v lhůtě skutečně uplatněno. Včasnost výzvy je přitom nutnou, nikoli postačující podmínkou: věc musela být v lhůtě ve vlastnictví státu.
 
 ## 3. Ochrana předmětu restituce — blokace původního majetku
 
@@ -91,11 +95,21 @@ Zásada působí i zpětně vůči převodům, které porušily dřívější bl
 
 > „lhůta pro uplatnění výzvy k vydání věci počne běžet dnem nabytí právní moci rozhodnutí, kterým bylo určeno vlastnické právo státu.“
 
+Dosah dřívějších blokací však není neomezený; místní karta [NS 28 Cdo 1246/2016](judikatura/NS-28-Cdo-1246-2016.md) (kap. [04](04-financni-vyporadani-zaverecna-novely.md), § 18 — judikatura) uvádí:
+
+> „Převodu historického majetku církví v dražbě prováděné na základě zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb. ve znění účinném do 31. 12. 2012“
+
+U zemědělského majetku draženého po dni účinnosti zákona o půdě mohl podle téže karty převod znemožnit § 29 zákona o půdě.
+
 U movitých věcí chrání předmět vydání zákaz přemístění se sankcí náhrady škody (kap. [03](03-postup-vydani-omezeni.md), § 13 odst. 3):
 
 > „Oprávněná osoba má nárok na náhradu škody, kterou jí povinná osoba způsobí porušením této povinnosti.“
 
-Praktickým důsledkem je, že nabyvatel nebo uživatel původního církevního majetku od státu v době trvání blokace nezíská platný titul; při prověřování státního majetku je proto třeba zkoumat jeho historii v rozhodném období.
+Blokace přitom chrání předmět vydání, ale sama nikoho neopravňuje věc užívat. Místní karta [NS 28 Cdo 2527/2021](judikatura/NS-28-Cdo-2527-2021.md) (kap. [03](03-postup-vydani-omezeni.md), § 13 — judikatura):
+
+> „Ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012 a § 13 zákona č. 428/2012 Sb. nezakládala právní důvod k užívání historického majetku církví ve vlastnictví státu třetími osobami“
+
+Praktickým důsledkem je, že nabyvatel nebo uživatel původního církevního majetku od státu v době trvání blokace nezíská platný titul a nemůže se ani dovolávat blokace samé jako důvodu užívání; při prověřování státního majetku je proto třeba zkoumat jeho historii v rozhodném období.
 
 ## 4. Taxativnost výluk a ochrana veřejného zájmu a třetích osob
 
@@ -113,6 +127,12 @@ Zásada přiměřenosti zásahu se projevuje i ve vztahu mezi výlukou pro veře
 
 > „to neplatí, postačí-li pro veřejně prospěšnou stavbu zřízení věcného břemene,“
 
+Rozhodný okamžik pro posouzení této výluky určuje místní karta [NS 28 Cdo 164/2020](judikatura/NS-28-Cdo-164-2020.md) (kap. [02](02-zakladni-vydani-osoby.md), § 8 — judikatura); obsah územně plánovací dokumentace se posuzuje k okamžiku, který právní věta vymezuje takto:
+
+> „považuje okamžik doručení výzvy oprávněné osoby k vydání takového majetku osobě povinné“
+
+Pozdější vymezení veřejně prospěšné stavby proto vydání nebrání a výluku nelze dodatečně rozšířit změnou územně plánovací dokumentace po doručení výzvy.
+
 Výluka konfiskátů brání tomu, aby se restituce stala nástrojem revize poválečných konfiskací (kap. [02](02-zakladni-vydani-osoby.md), § 8 — písm. h)):
 
 > „Výluka zabraňuje tomu, aby se prostřednictvím ZMVC revidovaly poválečné konfiskace.“
@@ -121,7 +141,7 @@ Praktickým důsledkem je, že výluky se vykládají restriktivně a vztahují 
 
 ## 5. Restituce jen z majetku státu a uzavřenost restitučních titulů
 
-**Zakotvení:** § 4, § 5, § 6, § 7, § 11 odst. 7
+**Zakotvení:** § 4, § 5, § 6, § 7, § 11 odst. 7, § 12 odst. 1
 
 Naturální restituce se omezuje na věci, které jsou ve vlastnictví státu, a na uzavřený okruh skutečností zakládajících křivdu. Podmínka povinné osoby zní (kap. [02](02-zakladni-vydani-osoby.md), § 4):
 
@@ -134,6 +154,14 @@ Vydání Pozemkovým fondem a Lesy ČR je výslovně omezeno na věc ve vlastnic
 U ostatních povinných osob přistupuje požadavek funkční souvislosti nebo účelového užívání (kap. [02](02-zakladni-vydani-osoby.md), § 7 odst. 1 písm. b)):
 
 > „oprávněné osobě nebo jejímu právnímu předchůdci v rozhodném období sloužila k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům nebo jako obydlí duchovních.“
+
+Místní karta [NS 28 Cdo 2854/2019](judikatura/NS-28-Cdo-2854-2019.md) (kap. [02](02-zakladni-vydani-osoby.md), § 7 — judikatura) tento účelový důvod vykládá úzce:
+
+> „naplňují jen nemovité věci, jež v rozhodném období bezprostředně sloužily některému z účelů taxativně vyjmenovaných v tomto ustanovení“
+
+Podmínku vlastnictví státu váže karta [NS 28 Cdo 2703/2018](judikatura/NS-28-Cdo-2703-2018.md) na prekluzivní lhůtu k výzvě (viz zásada 2) a pojem původního majetku u pozemků z pozemkových úprav zužuje karta [NS 28 Cdo 2255/2017](judikatura/NS-28-Cdo-2255-2017.md) (fikce nenastala bez odděleného nakládání s původním majetkem). Uzavřenost nároků oprávněné osoby potvrzuje karta [NS 28 Cdo 3873/2022](judikatura/NS-28-Cdo-3873-2022.md) (kap. [03](03-postup-vydani-omezeni.md), § 12 — judikatura):
+
+> „Ustanovení § 12 odst. 1 zákona č. 428/2012 Sb. nezakládá nárok oprávněné osoby na vydání užitku věci ve formě nájemného“
 
 Je-li vlastníkem jiná osoba než stát, výzva se vrací (kap. [03](03-postup-vydani-omezeni.md), § 11 odst. 7):
 
